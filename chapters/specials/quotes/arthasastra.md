@@ -318,7 +318,10 @@
 > Of these, the conqueror should assail the Breaking-the-enemy-array array with the Firm array, the Firm array with the Irresistible array, the Eagle array with the Bow array, the Hold Array with the Stronghold array, the Victory array with the Conqueror array, the Big Ear array with the Vast Victory array, the Swift World Conquest array with the All-auspicious array, and all kinds of arrays with the Invincible array.
 > 
 > —Kautilya, in the Arthaśāstra, 10.6:1-43
-
+## scheme_0
+> If a chief among the neighbouring kings seems to give trouble, the minister may invite him, saying "come here and I shall make thee king," and then put him to death.
+> 
+> —Kautilya, in the Arthaśāstra, 5.6:16
 ## scheme_1
 > The conqueror may dismiss a confidential chief of a corporation. The chief may go over to the enemy as a friend and offer to supply him with recruits and other help collected from the conqueror's territory or followed by a band of spies — and please the enemy by destroying a disloyal village or a regiment or an ally of the conqueror — and by sending as a present the elephants, horses, and disaffected persons of the conqueror's army or of the latter's ally (…)
 > 
