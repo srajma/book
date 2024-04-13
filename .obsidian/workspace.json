@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/3/3.9.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/3/3.9.md"
+                "file": "README.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/3/3.9.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/3/3.9.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,13 +177,15 @@
       "obsidian-word-sprint:Activate Word Sprint Leaf": false
     }
   },
-  "active": "f04a6dbb5ea619e0",
+  "active": "f8bc7090ab94736d",
   "lastOpenFiles": [
+    "-attachments/Pasted image 20240414015348.png",
+    "-attachments",
+    "chapters/3/3.9.md",
     "chapters/specials/quotes/greek.md",
     "chapters/specials/quotes/arthasastra.md",
     "TODO.md",
     "lore.md",
-    "chapters/3/3.9.md",
     "outline.md",
     "chapters/vasudeva/1.2_rebels.md",
     "chapters/vasudeva/1.3_coup.md",
@@ -204,7 +206,6 @@
     "chapters/1/1.5.md",
     "chapters/1/1.4.md",
     "chapters/1/1.1.md",
-    "chapters/1/1.2.md",
     "LICENSE",
     "desktop.ini",
     "chapters/rough/4",
@@ -213,7 +214,6 @@
     "pers/pull.sh",
     "pers/backup.sh",
     "pers",
-    "backup.sh",
-    "push.sh"
+    "backup.sh"
   ]
 }

@@ -1,4 +1,17 @@
-# chapters
+## read
+
+The best way to read this is to install [Obsidian](https://obsidian.md/). It’s a simple notes/docs app, but will change your life in many ways. Instructions:
+
+1. Clone this repo (or click “Download ZIP” from the green `<Code>` menu at the top right)
+2. Install Obsidian
+3. Open Obsidian, and click “Open folder as vault”
+
+This is what the book looks like in Obsidian:
+
+![](-attachments/Pasted%20image%2020240414015348.png)
+
+Alternatively there is a website for quick viewing: https://srajma.github.io/book/ but it does not display embeds (used throughout the book to display quotes from primary sources and “special sections” like speeches, letters and lectures of characters in the book.)
+# content
 - [0.1 INTRODUCTION](chapters/0/0.1.md)
 - [0.2 PROLOGUE: Pratiṣṭhāna Kāṇḍa](chapters/0/0.2.md)
 - 1 Takṣaśila Kāṇḍa (*The Taxila Chapter*). In a world where the Vedic light appears to be dying, crushed from both sides by the Magadhas and the Persians, a young Cāṇakya resolves to make some changes.
