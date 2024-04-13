@@ -1,0 +1,1 @@
+Massagetae queen comes to Pataliputra indignant. Now she’s lost all respect in Scythia. “So much Scythian blood has been shed on this land.” “And that is precisely why you cannot be allowed to rule a kingdom.” “You took my army from me … that was all I had!” Self-immolates

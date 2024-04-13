@@ -1,0 +1,15 @@
+Hear, king of Persia!
+
+Hear the words of Dhanānanda the World Conqueror, who is possessed of an enormous and prosperous treasury, of secure territory with no enemies to his East but the vast seas, of an uninterrupted territory secured by an army of 3000 elephants, 2000 four-horsed chariots, 20,000 cavalry, 200,000 infantry and many incredible devices and contravariances that your people have not heard of even in fantastical tales – to whom every other king bows his head in submission out of fear for the lives of his men, the dignity of his women, the freedom of his children, the security of his finances and the continued existence of his country.
+
+All around you, King of Persia, your prophets and soothsayers – not only your rivals and the rebels, but even those whom you once regarded as your well-wishers – warn of your annihilation, of the end times of your empire, and accuse that it will be brought by you.
+
+Let me convey to you the wise words of the Ājīvaka philosophers of my own great country, who say that it would be foolish to blame you for such a loss, for men are but machines, that if you are prophesied for destruction, then that is your fate and there is no escape from it. For that is the inevitable consequences of your own choices, even as those choices were not truly yours. They say that you should seek solace in this fate.
+
+But I say this: there are two choices available to you today, and even though you do not truly possess any faculties to make a choice by your own volition, the choice that is made for you will have a profound impact on how you are remembered by history.
+
+You may seek my friendship and my goodwill – you may heed the wisdom of my kind words, then you shall know the generosity of a Magadha! Why, these petty conflicts you have with the Greeks could be resolved by the mighty king of Magadha, through my mediation, for such is my strength, such is my wealth, such is my power! I am a most desirable friend, and a most unpleasant enemy – such are the words spoken of the mighty king of Magadha in all the countries of the world.
+
+But if you retain your unwanted presence in the country I claim as my own, then I fear that all the events that you dread the most – those doubts that harass your mind so intolerably, even as you attempt to suppress them, that your detractors might be speaking words of truth – will unfold before your very eyes. Your fears of being remembered in history as the emperor who gave away his country to the Sindhis and Scythians and Greeks, of having your beautiful realm ravaged by powerful armies on all sides, will become reality.
+
+These are the words of the mightiest empire to have ever existed in the world – an empire that has not lost two thirds of an inch of territory in all its history, whose borders have never shrunk, whose kings have never failed to secure any land they set their eyes on; they are the words of the greatest ruler of such an empire, who is undefeated in battle, whose ambitions are great, to whom other kings come begging for mercy and largesse.

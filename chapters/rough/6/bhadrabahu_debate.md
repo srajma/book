@@ -1,0 +1,6 @@
+Chanakya visits Bhadrabahu in his hermitage. Bhadrabahu: I do not typically permit women nor weapons in my hermitage. You have brought both with you. Chanakya dismissed the guards. Bhadrabahu: I suppose you shall ask me what it is I want with Chandragupta, place some absurd allegations on me. Water? Chanakya declined. “No. I have not come here out of anger.” You have not? “I have come here to invite you to the Knowledge Assembly at Pataliputra next month for a royal debate. Against me.”
+
+“Victory shall be judged by the king. The victor shall be appointed an advisory role, or more accurately retain his advisory role—”, the audience chuckled. “—the loser shall be forbidden from entering Pataliputra ever again.”
+
+… The crowd is cheering for Chanakya. Chandragupta refuses to give his judgement. Chanakya: if you had to choose? Chandragupta: Please, Professor, do not make me choose. You are my teacher and advisor on matters of statecraft and economics; Bhadrabahu is my teacher and advisor on matters of religion and spirituality. The very point I was attempting to make in this debate is that he is _wrong_ on those matters as well. … The relation between truths. Forgive me, Professor. I do not believe you should have challenged him to a duel.
+

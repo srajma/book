@@ -1,0 +1,9 @@
+A speech, from Śaśigupta of Takṣaśilā to the Ārjunāyanas of Indraprastha.
+
+I salute you, Vṛṣṇiman, the chief of the mighty Ārjunāyanas, the worthy claimants to the legacy of the mighty Arjuna, of the Kuru line of antiquity – the blessed of the defenders of the Kṣatriya Dharma, who are honoured for their quality that a Brāhmaṇa need not tell them twice for them to understand the truth and execute the correct action. I compliment the beauty and grandeur of your delusive chamber, the oldest of its form known in the three worlds.
+
+Professor Cāṇakya has received an intimation of a military expedition against the Ārjunāyanas. He has forbidden me from disclosing to you the nature of this expedition, or its belligerents, for we must consider every possibility of betrayal – but I will say that the threat will be more serious than anything the Ārjunāyanas have ever faced in the past, and that I frankly regard it as unlikely you will be able to survive the attack without my intervention.
+
+I ask that you allow me to advise you alongside your strategist Nripanjaya – I cannot leave the entire task up to you, as my informants in the enemy’s territory trust only myself and Professor Cāṇakya, who is busy in Takṣaśilā with his other students, but I do not demand any power or direct control over your armies; I ask only that you accept the information I provide you and act as per my advice.
+
+I will not demand any salary from you beyond the provision for my sustenance, for I am a student of Professor Cāṇakya, and am here on his behest – he will only request his reward after the war is over, the fruits of his help are realized to you, and you have rebuilt any damages that your country suffers in the course of the war. This should relieve you of any apprehensions, for we have little to gain from deceiving you; from this alliance we desire nothing more than your trust and the defeat of our common enemy.
