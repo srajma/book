@@ -13,7 +13,8 @@
 	- [ ] try to reflect that the Persian acquisitions in India were only brief and temporary (see [never_invaded](chapters/specials/quotes/greek.md#never_invaded)) — also reduce the prominence of Sindh in the book, it was a relatively small region back then
 	- [ ] write travel scenes better, reflecting a caravan scene — though can still point out that trade had stalled due to Nanda neglect of infrastructure etc.
 	- [ ] the two visitors in the prologue should be messengers not professors
-	- [ ] probably remove the stupid humour attempt calling Seleucus fat [3.12](chapters/3/3.12.md) — oh, I also called some student’s mother fat [1.10](chapters/1/1.10.md) 
+	- [ ] probably remove the stupid humour attempt calling Seleucus fat [3.12](chapters/3/3.12.md) — oh, I also called some student’s mother fat [1.10](chapters/1/1.10.md)
+	- [ ] add bit about buying female guards from the Greeks
 - [ ] big tasks
 	- [ ] write female characters better — Yaśomatī, Puṣkaradhāriṇī, Ghr̥tācī. What are some genuinely well-written female characters in literature?
 	- [ ] add images

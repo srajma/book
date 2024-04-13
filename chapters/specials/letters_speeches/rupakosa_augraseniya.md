@@ -8,4 +8,4 @@ _This evening, Sakadala came to my bedroom – he gave me a poison pellet – an
 
 _I would like to say that my love for you would make me resist this instruction, to overcome Sakadala’s dark powers. And I do believe it would. But I cannot take that risk. I would rather die. And so, I will._
 
-_This is my last, and final message to you, my Lord. Your beloved Karenumati wishes you a long and joyful life._
+_This is my last, and final message to you, my Lord. Your beloved Rūpakośa wishes you a long and joyful life._

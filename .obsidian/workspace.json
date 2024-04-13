@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/1/1.6.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/1/1.6.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/1/1.6.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/1/1.6.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,22 @@
   },
   "active": "9e044dd657ca8a95",
   "lastOpenFiles": [
-    "chapters/specials/quotes/arthasastra.md",
+    "chapters/3/3.12.md",
+    "chapters/3/3.8.md",
+    "chapters/3/3.7.md",
+    "chapters/3/3.6.md",
+    "lore.md",
+    "chapters/3/3.1.md",
+    "chapters/3/3.2.md",
+    "chapters/3/3.3.md",
+    "chapters/2/2.1.md",
+    "chapters/2/2.2.md",
+    "chapters/1/1.9.md",
+    "chapters/1/1.10.md",
+    "chapters/1/1.8.md",
+    "chapters/1/1.7.md",
     "chapters/1/1.6.md",
+    "chapters/specials/quotes/arthasastra.md",
     "chapters/1/1.5.md",
     "chapters/1/1.4.md",
     "chapters/1/1.1.md",
@@ -189,22 +203,8 @@
     "TODO.md",
     "outline.md",
     "chapters/dasarajna.md",
-    "lore.md",
     "chapters/2/2.5.md",
     "chapters/2/2.4.md",
-    "chapters/2/2.3.md",
-    "chapters/1/README.md",
-    "chapters/4/4.2.md",
-    "chapters/4/4.1.md",
-    "chapters/3/3.12.md",
-    "chapters/3/3.11.md",
-    "chapters/3/3.10.md",
-    "chapters/3/3.9.md",
-    "chapters/3/3.8.md",
-    "chapters/3/3.7.md",
-    "chapters/3/3.6.md",
-    "chapters/3/3.5.md",
-    "chapters/3/3.4.md",
     "LICENSE",
     "desktop.ini",
     "chapters/rough/4",

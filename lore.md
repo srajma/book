@@ -39,7 +39,7 @@ Roxana
 Sukeśī
 ### Misc
 
-Rūpakośā (TODO: replace Karenumati lol) | Devashravas
+Rūpakośā | Devashravas
 Achyuta
 Executioner
 Kalmasanghri
