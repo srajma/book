@@ -59,7 +59,7 @@ Bimbisāra
 Udayin
 Vajirakumari Chellana, Vajirakumari, Chellana | Kosala Devi
 Kṣatravṛddha | Kṣemravṛddhi
-Varṣākāra, Vassakāra TODO: change from Dīrghālochana
+Varṣākāra, Vassakāra
 Vapuṣmatī
 Dīrghachāryaṇa TODO: change from Puruṣaprabhu
 Kulvalaka
