@@ -8,7 +8,7 @@ The best way to read this is to install [Obsidian](https://obsidian.md/). It’s
 
 This is what the book looks like in Obsidian:
 
-![](-attachments/Pasted%20image%2020240414015348.png)
+![](-img/obsidian.png)
 
 Alternatively there is a website for quick viewing: https://srajma.github.io/book/ but it does not display embeds (used throughout the book to display quotes from primary sources and “special sections” like speeches, letters and lectures of characters in the book.)
 # content

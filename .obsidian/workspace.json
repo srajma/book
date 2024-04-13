@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "outline.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,19 @@
   },
   "active": "f8bc7090ab94736d",
   "lastOpenFiles": [
-    "-attachments/Pasted image 20240414015348.png",
-    "-attachments",
+    "-img/midjourney/ajatasatru_4.png",
+    "-img/midjourney/ajatasatru_3.png",
+    "-img/midjourney/ajatasatru_2.png",
+    "-img/midjourney/ajatasatru_1.png",
+    "-attachments/old_imgs/ajatasatru0.png",
+    "-attachments/old_imgs/image22.png",
+    "-img/midjourney/messengers.png",
+    "-attachments/old_imgs/image7.png",
+    "-img/midjourney/rupakosa_3.png",
+    "-img/midjourney/rupakosa_2.png",
+    "-img/midjourney/rupakosa_1.png",
+    "-img/midjourney",
+    "-img",
     "chapters/3/3.9.md",
     "chapters/specials/quotes/greek.md",
     "chapters/specials/quotes/arthasastra.md",
@@ -213,7 +224,6 @@
     "chapters/rough/6",
     "pers/pull.sh",
     "pers/backup.sh",
-    "pers",
-    "backup.sh"
+    "pers"
   ]
 }
