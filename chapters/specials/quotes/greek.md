@@ -2,14 +2,17 @@
 > But other things the Indians do which one cannot approve: for instance, that they eat always alone, and that they have no fixed hours when meals are to be taken by all in common, but each one eats when he feels inclined. The contrary custom would be better for the ends of social and civil life.
 > 
 > —Megasthenes, according to Strabo XV, i. 53-56, pp. 709-10.
+
 ## afghan_obscene
 > The men who inhabit the Hindu-Kush have intercourse with the women in the open.
 > 
 > —Megasthenes, according to Strabo 15.1.56, also corroborated by Herodotus 3.101
+
 ## afghan_obscene_2
 > The wives prostitute themselves unless they are compelled to be chaste.
 > 
 > —Megasthenes, according to Strabo 15.1.54
+
 ## apple
 > Zeus is said to have invited to the wedding of Peleus and Thetis all the gods except Eris (the goddess of discord). When she came later and was not admitted to the banquet, she threw an apple through the door, inscribed: To the Fairest One.
 > 
@@ -34,16 +37,19 @@
 > Alexander kept on sending others in succession; and last of all Meroes (Maurya) an Indian, because he ascertained that he was an old friend of Porus.
 > 
 > —Arrian, Anabasis Alexandri 5.18
+
 ## boomer
 > Truth and virtue they hold alike in esteem. Hence they accord no special privileges to the old unless they possess superior wisdom.
 > 
 > —Megasthenes, according to Strabo XV, i. 53-56, pp. 709-10.
+
 ## tall
 > They are tall in stature, in fact the tallest in Asia, most of them being five cubits in height, or a little less. They are darker than other men, except the Ethiopians, and in war they are far the bravest of all the races of Asia.
 > 
 > —Arrian, Anabasis Alexandri 5.4
 
 # unused
+
 ## slavery
 > The Indians do not even use aliens as slaves, and much less a countryman of their own.
 > 
@@ -76,6 +82,7 @@
 > But of their cities it is said that the number is so great that it cannot be stated with precision, but that such cities as are situated on the banks of rivers or on the sea-coast are built of wood instead of brick, being meant to last only for a time, — so destructive are the heavy rains which pour down, and the rivers also when they overflow their banks and inundate the plains, — while those cities which stand on commanding situations and lofty eminences are built of brick and mud; that the greatest city in India is that which is called Palimbothra.
 > 
 > —Megasthenes, according to Arrian’s Indica, 10.
+
 ## never_invaded
 
 Strab. XV. I. G-S,—pp. 636-033.

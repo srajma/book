@@ -11,6 +11,7 @@ This is what the book looks like in Obsidian:
 ![](-img/obsidian.png)
 
 Alternatively there is a website for quick viewing: https://srajma.github.io/book/ but it does not display embeds (used throughout the book to display quotes from primary sources and “special sections” like speeches, letters and lectures of characters in the book.)
+
 # content
 - [0.1 INTRODUCTION](chapters/0/0.1.md)
 - [0.2 PROLOGUE: Pratiṣṭhāna Kāṇḍa](chapters/0/0.2.md)
@@ -89,7 +90,7 @@ Alternatively there is a website for quick viewing: https://srajma.github.io/boo
 
 # dev
 
-Links to those who want to contribute:
+Finishing this book is currently very low on my list of priorities. If any of you are some really good writers, and want to contribute in line with the plot outline in the below links — send in some contributions via a Github pull request (maybe send some previous writing sample in advance so I can tell you beforehand if I’m likely to accept your PR).  
 
 - [TODO](TODO.md)
 - [outline](outline.md)

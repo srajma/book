@@ -18,6 +18,7 @@
 - [ ] big tasks
 	- [ ] write female characters better — Yaśomatī, Puṣkaradhāriṇī, Ghr̥tācī. What are some genuinely well-written female characters in literature?
 	- [ ] add images
+
 ## heads
 
 Heads where writing is to be appended
@@ -30,6 +31,7 @@ Heads where writing is to be appended
 ![3.8](chapters/3/3.8.md#^7407x4) 
 - [ ] **main head, where writing should be continued:**
 ![4.2](chapters/4/4.2.md)
+
 ## compilation notes
 things to keep in mind while writing a script to compile
 1. date formats
@@ -37,6 +39,7 @@ things to keep in mind while writing a script to compile
 3. full page vizhdam quotes
 4. chapter titles
 5. line spacings esp. at the start and end of embeds and chapters
+
 ### formats
 
 Date formats should be given e.g.

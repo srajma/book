@@ -4,6 +4,7 @@
 > But Kautilya holds that these four and only these four are the sciences (natural and logical science, the triple Vedas, the science of business, the science of government); wherefore it is from these sciences that all that concerns righteousness and wealth is learnt, therefore they are so called.
 > 
 > —Kautilya, in the Arthaśāstra, 1.2:4-9
+
 ## sceptre
 > … my teacher says, “Whoever desires the progress of the world shall ever hold the sceptre raised. Never can there be a better instrument than the sceptre to bring people under control.”
 > 
@@ -20,10 +21,12 @@
 > So says Kautilya, that artha and artha alone is important, in as much as dharma and kāma depend upon artha for their realisation.
 > 
 > —Kautilya, in the Arthaśāstra, 1.7:6-7
+
 ## all_three
 > He may enjoy in an equal degree the three pursuits of life: virtue, wealth, and desire, which are inter-dependent upon each other. Any one of these three, when enjoyed to an excess, hurts not only the other two, but also itself.
 > 
 > —Kautilya, in the Arthaśāstra, 1.7:4-5
+
 ## divided_rule
 > Of divided rule and foreign rule, divided rule, or rule of a country by two kings, perishes owing to mutual hatred, partiality and rivalry. My teacher says that foreign rule which depends upon its winning the affection of the people is for the enjoyment of others in its own condition.
 > 
@@ -46,6 +49,7 @@
 > No, says Kauṭilya: he who bows down to all like a crab on the riverbank lives in despair; whoever goes with his small army to fight perishes like a man attempting to cross the sea without a boat. Hence, a weak king should either seek the protection of a powerful king or maintain himself in an impregnable fort.
 > 
 > —Kautilya, in the Arthaśāstra, 12.1:1-9
+
 ## minister_employment
 > Whoever possesses enough experience of the world and its affairs may, through the influence of an interested friend, seek the favour of a king who is endowed with amiable qualities and is possessed of all the elements of sovereignty. He may court the favour of any king provided he thinks: Just as I am in need of a patron, so is this king possessed of a taste for good advice and is of amiable character. He may even court the favour of such a king as is poor and destitute of the elements of sovereignty, but never, of such a one as is of a depraved character: whoever, as a king, is destitute of good temper and amiable character cannot, by reason of his habitual hatred of the science of polity and an inborn proclivity to evil ways, maintain his sovereignty, though he is possessed of immense sovereign power.
 > 
@@ -65,6 +69,7 @@
 > Carelessness, intoxication, sleep-talking, love and other evil habits of councillors are the causes of the betrayal of counsels.
 > 
 > —Kautilya, in the Arthaśāstra, 1.15:2-12
+
 ## restraint
 > Hence by overthrowing the aggregate of the six vices, [a saintly king] shall restrain the organs of sense; acquire wisdom by keeping company with the aged; see through his spies; establish safety and security by being ever active; maintain his subjects in the observance of their respective duties by exercising authority; keep up his personal discipline by receiving lessons in the sciences; and endear himself to the people by bringing them in contact with wealth and doing good to them.
 > 
@@ -78,6 +83,7 @@
 > It is said that a woman making love of her own initiative will, when discarded, curse the man.
 > 
 > —Kautilya, in the Arthaśāstra, 5.6:30
+
 ## self-protection
 > Self-protection shall be the first and constant thought of a wise man; for the life of a man under the service of a king is aptly compared to life in fire; whereas fire burns a part or the whole of the body, if at all, the king has the power either to destroy or to advance the whole family, consisting of sons and wives, of his servants.
 > 
@@ -114,6 +120,7 @@
 > Proclamation of his association with gods is as follows: holding conversation with, and worshipping, the spies who pretend to be the gods of fire or altar when through a tunnel they come to stand in the midst of fire, altar, or in the interior of a hollow image; holding conversation with, and worshipping, the spies who rise up from water and pretend to be the Nāga gods and goddesses; placing under water at night a mass of sea-foam mixed with burning oil, and exhibiting it as the spontaneous outbreak of fire, when it is burning in a line; sitting on a raft in water, which is secretly fastened by a rope to a rock; such magical performance in water as is usually done at night by bands of magicians, using the sack of abdomen or womb of water animals to hide the head and the nose, and applying to the nose the oil, prepared from the entrails of red spotted deer and the serum of the flesh of the crab, crocodile, porpoise and otter; holding conversation, as though with women of Varuna or of Nāga when they are performing magical tricks in water; and sending out volumes of smoke from the mouth on occasions of anger.
 > 
 > —Kautilya, in the Arthaśāstra, 13.1:3-6
+
 ## godliness_2
 > Astrologers, sooth-sayers, horologists, story-tellers and sign-readers, together with spies and their disciples, inclusive of those who have witnessed the wonderful performances of the conqueror should give wide publicity to the power of the king to associate with gods throughout his territory. Likewise in foreign countries, they should spread the news of gods appearing before the conqueror and of his having received from heaven weapons and treasure. Those who are well versed in horary and astrology and the science of omens should proclaim abroad that the conqueror is a successful expert in explaining the indications of dreams and in understanding the language of beasts and birds. They should not only attribute the contrary to his enemy, but also show to the enemy's people the shower of firebrand with the noise of divine drums on the day of the birth-star of the enemy.
 > 
@@ -128,6 +135,7 @@
 > Proclamation of his omniscience is as follows: rejection of his chief officers when their secret domestic and other private affairs are known; revealing the names of traitors after receiving information from spies specially employed to find out such men; pointing out the impolitic aspect of any course of action suggested to him; and pretensions to the knowledge of foreign affairs by means of his power to read omens and signs invisible to others when information about foreign affairs is just received through a domestic pigeon which has brought a sealed letter.
 > 
 > —Kautilya, in the Arthaśāstra, 13.1:2
+
 ## qualities
 > High birth, godliness, heroism, seeing through the eyes of elders, virtue, truthfulness, non-contradiction, gratefulness, high goals, enthusiasm, non-procrastination, power, resolute mind, an assembly of viceless ministers, a taste for discipline; these are the qualities of an inviting nature.
 > 
@@ -153,12 +161,14 @@
 > The king, the minister, the country, the fort, the treasury, the army and the ally are the elements of sovereignty.
 > 
 > —Kautilya, in the Arthaśāstra, 6.1 
+
 ## which_is_better
 > Which is better of the two, a small mine of valuable yield, or a big mine productive of commodities of inferior value? My teacher says that the former is better inasmuch as valuable products, such as diamonds, precious stones, pearls, corals, gold and silver, can swallow vast quantities of inferior commodities.
 > 
 > Not so, says Kautilya, for there is the possibility of purchasing valuable commodities by a mass of accumulated articles of inferior value, collected from a vast and longstanding mine of inferior commodities.
 > 
 > —Kautilya, in the Arthaśāstra, 7.12:14-16
+
 ## which_is_better_2
 > Which is better, a friend of vast population, or a friend of immense gold? My teacher says that a friend of vast population is better inasmuch as such a friend will be of imposing power and can, when he rises up, accomplish any work undertaken. Not so, says Kautilya: a friend possessing immense gold is better; for possession of gold is ever desirable; but an army is not always required. Moreover armies and other desired objects can be purchased for gold.
 > 
@@ -202,6 +212,7 @@
 > With regard to a wise and a brave prince, a wise prince, even if timid, is characterized with capacity for intellectual works; and a brave prince even if not wise, possesses warlike spirit. So far as warlike spirit is concerned, a wise prince overreaches a brave one just as a hunter does an elephant.
 > 
 > —Kautilya, in the Arthaśāstra, 7.17
+
 ## slavery
 > It is no crime for barbarians to sell or mortgage the life of their own offspring. But never shall an Ārya be subjected to slavery.
 > 
@@ -318,10 +329,12 @@
 > Of these, the conqueror should assail the Breaking-the-enemy-array array with the Firm array, the Firm array with the Irresistible array, the Eagle array with the Bow array, the Hold Array with the Stronghold array, the Victory array with the Conqueror array, the Big Ear array with the Vast Victory array, the Swift World Conquest array with the All-auspicious array, and all kinds of arrays with the Invincible array.
 > 
 > —Kautilya, in the Arthaśāstra, 10.6:1-43
+
 ## scheme_0
 > If a chief among the neighbouring kings seems to give trouble, the minister may invite him, saying "come here and I shall make thee king," and then put him to death.
 > 
 > —Kautilya, in the Arthaśāstra, 5.6:16
+
 ## scheme_1
 > The conqueror may dismiss a confidential chief of a corporation. The chief may go over to the enemy as a friend and offer to supply him with recruits and other help collected from the conqueror's territory or followed by a band of spies — and please the enemy by destroying a disloyal village or a regiment or an ally of the conqueror — and by sending as a present the elephants, horses, and disaffected persons of the conqueror's army or of the latter's ally (…)
 > 
@@ -366,6 +379,7 @@
 > They may take the army supplied, and surrendering it to the commander laying waste the villages, return at night with a part of the commander’s army, and cry aloud at the gate of the fort that the thieves are slain, that the army has returned victorious, and that the gate may be opened. When the gate is opened by the watchmen under the enemy’s order or by others in confidence, they may strike the enemy with the help of the army.
 > 
 > —Kautilya, in the Arthaśāstra, 13.3:40-43
+
 ## delusion
 > Or a spy may tell a self-confident son of the chief of mercenary corporations: "You are the son of such and such a king and are kept here under the apprehension of danger from enemies." When he is deluded with this belief, the conqueror may help him with men and money and set him against the mercenary corporations. When the object in view is realised, the conqueror may also banish him.
 > 
@@ -401,6 +415,7 @@
 > With a view to enhance the splendour of prostitutes holding the royal umbrella, golden pitcher, and fan, and attending upon the king seated on his royal litter, throne, or chariot, prostitutes shall be classified as of first, middle and highest rank according to their beauty and splendid jewellery; likewise their salary shall be fixed by thousands.
 > 
 > —Kautilya, in the Arthaśāstra, 2.27:4
+
 ## spies_1
 
 > Spies set up by foreign kings shall also be found out by local spies; spies by spies of like profession. It is the institutes of espionage, secret or avowed, that set spies in motion.
@@ -453,6 +468,7 @@
 > When under the temptation of youth, he turns his eye towards women, impure women under the disguise of Āryas shall, at night and in lonely places, terrify him; when fond of liquor, he shall be terrified by making him drink drugged liquor; when fond of gambling, he shall be terrified by spies under the disguise of fraudulent persons; when fond of hunting, he shall be terrified by spies under the disguise of highway robbers; and when desirous of attacking his own father, he shall, under the pretence of compliance, be gradually persuaded of the evil consequences of such attempts, by telling: a king is not made by a mere wish; failure of thy attempt will bring about thy own death; success makes thee fall into hell and causes the people to lament for thy father and destroy the only clod, i.e. thyself.
 > 
 > —Kautilya, in the Arthaśāstra, 1.17:33-39
+
 ## protect_army
 > Of troops which have lost their leader or which are not trained, those that have lost their leader may be taken to fight under the leadership of a different person but not the troops which are not trained.
 > 
@@ -478,6 +494,7 @@
 > Whenever by means of the deposition of witnesses, the statements of either of the parties are found contradictory, and whenever the cause of either of the parties is found by government spies to be false, then the decree shall be passed against that party
 > 
 > —Kautilya, in the Arthaśāstra, 3.1:38-47
+
 ## law_2
 > My preceptor holds that quarrels or assaults of a remote date shall not be complained of.
 > 
@@ -500,6 +517,7 @@
 > —Kautilya, in the Arthaśāstra, 2.10:1
 > 
 > Later commentary: As oral order sent through messengers is liable to misrepresentation, owing to misunderstanding, carelessness, and want of intelligence of the messengers, it is only writing on palm leaf that deserves the name of royal order
+
 ## hostage
 > Peace, dependent upon honesty or oath is immutable both in this and the next world. It is for this world only that a security or an hostage is required for strengthening the agreement. Honest kings of old made their agreement of peace with this declaration: We have joined in peace.
 > 
@@ -598,6 +616,7 @@
 > 
 > —Kautilya, in the Arthaśāstra, 13.4
 > 
+
 ## using_enemies
 >Political rivals may be so employed as fine and tax collectors so as to incur the displeasure of the people.
 >

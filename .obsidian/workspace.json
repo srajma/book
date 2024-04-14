@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de09a1210c3e63ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/specials/quotes/arthasastra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "463e5149d6767baa",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outline.md"
+                "file": "chapters/specials/quotes/arthasastra.md"
               }
             }
           },
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outline.md",
+                "file": "chapters/specials/quotes/arthasastra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outline.md",
+                "file": "chapters/specials/quotes/arthasastra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +189,10 @@
       "obsidian-word-sprint:Activate Word Sprint Leaf": false
     }
   },
-  "active": "f8bc7090ab94736d",
+  "active": "de09a1210c3e63ed",
   "lastOpenFiles": [
+    "README.md",
+    "outline.md",
     "-img/midjourney/ajatasatru_4.png",
     "-img/midjourney/ajatasatru_3.png",
     "-img/midjourney/ajatasatru_2.png",
@@ -189,7 +203,6 @@
     "-attachments/old_imgs/image7.png",
     "-img/midjourney/rupakosa_3.png",
     "-img/midjourney/rupakosa_2.png",
-    "-img/midjourney/rupakosa_1.png",
     "-img/midjourney",
     "-img",
     "chapters/3/3.9.md",
@@ -197,7 +210,6 @@
     "chapters/specials/quotes/arthasastra.md",
     "TODO.md",
     "lore.md",
-    "outline.md",
     "chapters/vasudeva/1.2_rebels.md",
     "chapters/vasudeva/1.3_coup.md",
     "chapters/3/3.8.md",

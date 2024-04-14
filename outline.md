@@ -50,6 +50,7 @@ Strategy
 	- Cāṇakya constructs some fake camps as a decoy against Sakadala’s elephants: local craftsmen logged and cleared land and hauled wood and stone, Greeks built a fortress, Indians booby-trapped it and Persians decorated it to make it look convincing. Rapti Ghaghara confluence.
 	- possibly: [greek_dark_day](chapters/rough/4/greek_dark_day.md)
 - Getting the corporations to come around — so far they’ve been told two different kings would rule from two different sides. Some of them are already in pocket from Candragupta’s earlier connections
+
 ## **Magadha khanda**
 
 [durdhara_marriage](chapters/rough/5/durdhara_marriage.md)
@@ -58,6 +59,7 @@ Strategy
 [spoiler](chapters/rough/5/spoiler.md)
 Thera’s perspective, e.g. what’s in the [introduction](chapters/0/0.1.md)
 [last_amazon](chapters/rough/5/last_amazon.md)
+
 ## **Dakshinapatha Khanda**
 
 (321 BC, age 26) [durdhara_death](chapters/rough/6/durdhara_death.md)
@@ -87,6 +89,7 @@ speech; exercise the three puruśārtha on the conquered countries
 Timeline
 (288 BC, age 59) “You need to marry a new woman and start producing more princes immediately. One of your sons thinks that life has no value, the other thinks that the value of life lies in its death.” “Bindusara: I thought you liked me. Chanakya: I do like you. Bindusara: Well, how do you speak to kings you don’t like? Chanakya: I don’t speak to them, I end their lineages.” And while death is not a _traditional_ penalty for failing an exam, for these two … please consider it.
  (278 BC, age 69) Rebellion at Taxila as it is Buddhistifying, Ashoka sent to pacify it. Returns reporting that “They have no problem with the Emperor, only his ministers” in order to get Chanakya out of the picture. Cāṇakya convincingly points out 
+
 ## subplots
 
 ### The Men who Built India
@@ -98,8 +101,10 @@ The disintegration of Aśoka’s empire, with Simuka as a mastermind
 ### Delhi 1200 BC
 just the one chapter where Satyabhama and Rukmini learn of Krishna’s plot 
 and one last line of Krishna walking away as they all hit each other with rods and break the Dvaraka dam to flood their opponents
+
 ### Age of Iron
 just the striking iron chapter with everything else as flashback or mentioned
+
 ### The Man who built Civilization
 ”night at darkest” + birth scene
 dream + bull/pig wrestling + why not agriculture? scene
