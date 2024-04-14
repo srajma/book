@@ -17,6 +17,7 @@
 	- [ ] Age of Iron (interwoven if possible, short)
 	- [ ] The Man who built Civilization (supplement, series of shorts)
 
+chapter title ideas: Commanding heights; Co-operating with the enemy; Bureaucracy; Conspiracy theories; The relations between truths
 ## Āryāvarta Kāṇḍa
 
 Strategy
