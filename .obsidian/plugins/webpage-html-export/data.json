@@ -2,14 +2,14 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": true,
-  "includePluginCSS": "",
+  "includePluginCSS": "folder-notes",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",
-  "minOutlineCollapse": 2,
+  "minOutlineCollapse": 100,
   "startOutlineCollapsed": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\abhim\\Google Drive\\Srajma\\book\\.website",
+  "exportPath": "C:\\\\Users\\abhim\\Google Drive\\Srajma\\book\\docs",
   "filesToExport": [
     []
   ]

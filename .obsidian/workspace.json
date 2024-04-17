@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore.md"
+                "file": "chapters/1/1.2.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore.md",
+                "file": "chapters/1/1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lore.md",
+                "file": "chapters/1/1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f04a6dbb5ea619e0",
+  "floating": {
+    "id": "122a770f47ccee78",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1c7c57ea77ec4c3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "2eb9570a58eee808",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6d15977718b223c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "chapters/1/1.2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 316,
+        "y": 316,
+        "width": 902,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e6d15977718b223c",
   "lastOpenFiles": [
+    "chapters/1/1.1.md",
+    "chapters/1/README.md",
+    "chapters/0/0.2.md",
+    "lore.md",
+    "docs",
+    "New folder",
     "docs/chapters/specials/quotes/misc/wedding.html",
     "docs/chapters/specials/quotes/misc/theory_practice.html",
     "docs/chapters/specials/quotes/misc/sakala.html",
@@ -188,9 +231,6 @@
     "docs/chapters/specials/quotes/misc/README.html",
     "docs/chapters/specials/quotes/misc/obtain_woman.html",
     "docs/chapters/specials/quotes/misc/mayurasarma.html",
-    "docs/chapters/specials/quotes/misc/hero.html",
-    "docs/chapters/specials/quotes/misc/gordian.html",
-    "docs/chapters/specials/quotes/misc/gita_3.html",
     "docs/-img/midjourney/canin.png",
     "docs/lib/media/favicon.png",
     "docs/lib/media/874d8b8e340f75575caa.svg",
@@ -202,7 +242,6 @@
     "docs/-img/midjourney/ajatasatru_4.png",
     "docs/-img/midjourney/taxila_student_2.png",
     "TODO.md",
-    "lore.md",
     "outline.md",
     "index.md",
     "chapters/specials/quotes/arthashastra/README.md",
@@ -223,8 +262,6 @@
     "chapters/specials/quotes/arthashastra/marriage.md",
     "chapters/specials/quotes/arthashastra/making_excuses.md",
     "chapters/specials/quotes/arthashastra/law_4.md",
-    "chapters/specials/quotes/arthashastra/law_3.md",
-    "chapters/specials/quotes/arthashastra/law_2.md",
-    "chapters/specials/quotes/arthashastra/law.md"
+    "chapters/specials/quotes/arthashastra/law_3.md"
   ]
 }
