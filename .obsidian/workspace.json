@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "chapters/specials/quotes/arthashastra/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "chapters/specials/quotes/arthashastra/README.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "chapters/specials/quotes/arthashastra/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "chapters/specials/quotes/arthashastra/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,8 @@
   },
   "active": "f04a6dbb5ea619e0",
   "lastOpenFiles": [
-    "TODO.md",
     "README.md",
+    "TODO.md",
     "outline.md",
     "lore.md",
     "chapters/dasarajna.md",
