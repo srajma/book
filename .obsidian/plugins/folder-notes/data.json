@@ -14,10 +14,10 @@
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
-  "folderNoteName": "README",
+  "folderNoteName": "index",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
-  "newFolderNoteName": "README",
+  "newFolderNoteName": "index",
   "storageLocation": "insideFolder",
   "syncDelete": false,
   "showRenameConfirmation": true,
@@ -48,7 +48,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "file_explorer",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"

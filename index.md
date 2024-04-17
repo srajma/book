@@ -67,10 +67,10 @@ Read here: https://srajma.github.io/book/
 	- The Man who Built Civilization
 - Special
 	- quotes
-		- [README](chapters/specials/quotes/arthashastra/README.md)
-		- [README](chapters/specials/quotes/canakya_niti/README.md)
-		- [README](chapters/specials/quotes/greek/README.md)
-		- [README](chapters/specials/quotes/misc/README.md)
+		- [index](chapters/specials/quotes/arthashastra/index.md)
+		- [index](chapters/specials/quotes/canakya_niti/index.md)
+		- [index](chapters/specials/quotes/greek/index.md)
+		- [index](chapters/specials/quotes/misc/index.md)
 		- [full_page_vizhdam](chapters/specials/quotes/arthashastra/full_page_vizhdam.md) (quotes from Baba NiṣādaHermaphroditarchyaṃśa aka Baba Srajma, not any primary source)
 		- [quotable](chapters/specials/quotes/arthashastra/quotable.md) (quotes from Baba NiṣādaHermaphroditarchyaṃśa aka Baba Srajma, not any primary source)
 	- … (more, navigate through the folders to find as it’s too much to maintain)

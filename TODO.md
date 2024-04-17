@@ -2,7 +2,7 @@
 
 - [ ] write the book — according to [outline](outline.md) and at heads below
 - [ ] standardization
-	- [ ] **Write README and outline**
+	- [x] **Write index and outline**
 	- [ ] Standardize everything in [lore](lore.md) including  r̥ ṁ, and make the changes throughout the book
 	- [ ] Standardize quotation formats and italics (in flashback chapters, [full_page_vizhdam](chapters/specials/quotes/arthashastra/full_page_vizhdam.md))
 	- [ ] Em dash en dash
@@ -10,7 +10,7 @@
 - [ ] simple tasks
 	- [ ] try replacing the “Magadha culture” stuff with something else, maybe Vrātyas or something e.g. [3.9](chapters/3/3.9.md). Also emphasize caste less, it’s a bit putting-off.
 	- [ ] Remove excessive boomer words like *civilization* and *culture*
-	- [ ] try to reflect that the Persian acquisitions in India were only brief and temporary (see [never_invaded](chapters/specials/quotes/greek/README.md#never_invaded)) — also reduce the prominence of Sindh in the book, it was a relatively small region back then
+	- [ ] try to reflect that the Persian acquisitions in India were only brief and temporary (see [never_invaded](chapters/specials/quotes/greek/index.md#never_invaded)) — also reduce the prominence of Sindh in the book, it was a relatively small region back then
 	- [ ] write travel scenes better, reflecting a caravan scene — though can still point out that trade had stalled due to Nanda neglect of infrastructure etc.
 	- [ ] the two visitors in the prologue should be messengers not professors
 	- [ ] probably remove the stupid humour attempt calling Seleucus fat [3.12](chapters/3/3.12.md) — oh, I also called some student’s mother fat [1.10](chapters/1/1.10.md)
