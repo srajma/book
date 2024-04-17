@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/specials/quotes/arthashastra/README.md",
+                "file": "chapters/1/1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/specials/quotes/arthashastra/README.md"
+                "file": "chapters/1/1.1.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/specials/quotes/arthashastra/README.md",
+                "file": "chapters/1/1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/specials/quotes/arthashastra/README.md",
+                "file": "chapters/1/1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,9 @@
   },
   "active": "f04a6dbb5ea619e0",
   "lastOpenFiles": [
+    "chapters/0/0.2.md",
+    "chapters/0/0.1.md",
+    "chapters/specials/quotes/arthashastra/README.md",
     "README.md",
     "TODO.md",
     "outline.md",
@@ -204,9 +207,6 @@
     "chapters/specials/quotes/misc/wedding.md",
     "chapters/specials/quotes/misc/theory_practice.md",
     "chapters/specials/quotes/misc/sakala.md",
-    "chapters/specials/quotes/misc/README.md",
-    "chapters/specials/quotes/misc/obtain_woman.md",
-    "chapters/specials/quotes/misc/mayurasarma.md",
     "chapters/specials/quotes/misc",
     "chapters/specials/quotes/canakya_niti",
     "chapters/specials/quotes/greek",
