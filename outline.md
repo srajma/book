@@ -11,7 +11,7 @@
 - [ ] Subplots (interwoven or supplement)
 	- [x] Vāsudeva (interwoven)
 	- [x] Dāśarājña (interwoven, short)
-	- [ ] The Men who Build India (interwoven)
+	- [ ] The Men who Built India (interwoven)
 	- [ ] The Great Indian Civil War (supplement)
 	- [ ] Delhi 1200 BC (interwoven if possible, short)
 	- [ ] Age of Iron (interwoven if possible, short)

@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "81cd81bfcdbccf0a",
+            "id": "f6a569fe5e2a51bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,12 +187,12 @@
   "active": "493c821d73e69758",
   "lastOpenFiles": [
     "README.md",
-    "chapters/specials/quotes/arthasastra.md",
+    "-img/midjourney/ajatasatru_1.png",
     "outline.md",
+    "chapters/specials/quotes/arthasastra.md",
     "-img/midjourney/ajatasatru_4.png",
     "-img/midjourney/ajatasatru_3.png",
     "-img/midjourney/ajatasatru_2.png",
-    "-img/midjourney/ajatasatru_1.png",
     "-attachments/old_imgs/ajatasatru0.png",
     "-attachments/old_imgs/image22.png",
     "-img/midjourney/messengers.png",
@@ -223,7 +223,6 @@
     "chapters/1/1.6.md",
     "chapters/1/1.5.md",
     "chapters/1/1.4.md",
-    "chapters/1/1.1.md",
     "LICENSE",
     "desktop.ini",
     "chapters/rough/4",
