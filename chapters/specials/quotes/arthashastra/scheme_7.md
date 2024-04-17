@@ -1,0 +1,4 @@
+## scheme_7
+> After making peace with the enemy, the conqueror may dismiss his own confidential ministers. They may request the enemy to reconcile them to their master. When the enemy sends a messenger for this purpose, the conqueror may rebuke him and say: “Thy master attempts to sow the seeds of dissension between myself and my ministers; so thou should not come here again.” Then one of the dismissed ministers may go over to the enemy, taking with him a band of spies, disaffected people, traitors, brave thieves, and wild tribes who make no distinction between a friend and a foe. Having secured the good graces of the enemy, the minister may propose to him the destruction of his officers, such as the boundary-guard, wild chief, and commander of his army, telling him: “These and other persons are in concert with your enemy.” Then these persons may be put to death under the unequivocal orders of the enemy.
+> 
+> —Kautilya, in the Arthaśāstra, 13.3

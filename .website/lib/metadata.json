@@ -1,0 +1,2071 @@
+{
+  "vaultName": "book",
+  "lastExport": 1713373708924,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "-img/midjourney/ajatasatru_1.png",
+    "-img/midjourney/ajatasatru_2.png",
+    "-img/midjourney/ajatasatru_3.png",
+    "-img/midjourney/ajatasatru_4.png",
+    "-img/midjourney/ajatasatru_son.png",
+    "-img/midjourney/alexander_roxana.png",
+    "-img/midjourney/canakya.png",
+    "-img/midjourney/canakya_puskaradharini.png",
+    "-img/midjourney/canin.png",
+    "-img/midjourney/ghrtaci.png",
+    "-img/midjourney/krpa.png",
+    "-img/midjourney/messengers.png",
+    "-img/midjourney/rupakosa_1.png",
+    "-img/midjourney/rupakosa_2.png",
+    "-img/midjourney/rupakosa_3.png",
+    "-img/midjourney/seal.png",
+    "-img/midjourney/taxila_student.jpeg",
+    "-img/midjourney/taxila_student_2.png",
+    "-img/midjourney/taxila_student_3.png",
+    "-img/midjourney/thera.png",
+    "-img/midjourney/wanderer.png",
+    "-img/midjourney/war.png",
+    "-img/midjourney/yasomati.png",
+    "-img/obsidian.png",
+    "chapters/0/0.1.md",
+    "chapters/0/0.2.md",
+    "chapters/1/README.md",
+    "chapters/1/1.1.md",
+    "chapters/1/1.2.md",
+    "chapters/1/1.3.md",
+    "chapters/1/1.4.md",
+    "chapters/1/1.5.md",
+    "chapters/1/1.6.md",
+    "chapters/1/1.7.md",
+    "chapters/1/1.8.md",
+    "chapters/1/1.9.md",
+    "chapters/1/1.10.md",
+    "chapters/1/1.11.md",
+    "chapters/2/README.md",
+    "chapters/2/2.1.md",
+    "chapters/2/2.2.md",
+    "chapters/2/2.3.md",
+    "chapters/2/2.4.md",
+    "chapters/2/2.5.md",
+    "chapters/3/README.md",
+    "chapters/3/3.1.md",
+    "chapters/3/3.2.md",
+    "chapters/3/3.3.md",
+    "chapters/3/3.4.md",
+    "chapters/3/3.5.md",
+    "chapters/3/3.6.md",
+    "chapters/3/3.7.md",
+    "chapters/3/3.8.md",
+    "chapters/3/3.9.md",
+    "chapters/3/3.10.md",
+    "chapters/3/3.11.md",
+    "chapters/3/3.12.md",
+    "chapters/4/README.md",
+    "chapters/4/4.1.md",
+    "chapters/4/4.2.md",
+    "chapters/rough/4/README.md",
+    "chapters/rough/4/canakya_ghrtaci_more_convo.md",
+    "chapters/rough/4/conference.md",
+    "chapters/rough/4/greek_dark_day.md",
+    "chapters/rough/4/martyr.md",
+    "chapters/rough/4/resistance_futile.md",
+    "chapters/rough/4/speech.md",
+    "chapters/rough/4/vaisali.md",
+    "chapters/rough/4/when_to_assassinate.md",
+    "chapters/rough/5/README.md",
+    "chapters/rough/5/durdhara_marriage.md",
+    "chapters/rough/5/first_steps.md",
+    "chapters/rough/5/friend_foe.md",
+    "chapters/rough/5/last_amazon.md",
+    "chapters/rough/5/spoiler.md",
+    "chapters/rough/6/README.md",
+    "chapters/rough/6/bhadrabahu_debate.md",
+    "chapters/rough/6/canakya_candragupta_final_words.md",
+    "chapters/rough/6/durdhara_death.md",
+    "chapters/rough/6/southern_campaign.md",
+    "chapters/specials/lectures/elements.md",
+    "chapters/specials/lectures/PREFIX.md",
+    "chapters/specials/lectures/spies.md",
+    "chapters/specials/lectures/war.md",
+    "chapters/specials/letters_speeches/arjunayana.md",
+    "chapters/specials/letters_speeches/augraseniya_father.md",
+    "chapters/specials/letters_speeches/avarna.md",
+    "chapters/specials/letters_speeches/ghrtaci.md",
+    "chapters/specials/letters_speeches/ghrtaci_3.md",
+    "chapters/specials/letters_speeches/magadha_persia.md",
+    "chapters/specials/letters_speeches/magadha_persia_aftermath.md",
+    "chapters/specials/letters_speeches/pabbata_father.md",
+    "chapters/specials/letters_speeches/rupakosa_augraseniya.md",
+    "chapters/specials/letters_speeches/sakadala_dhanananda.md",
+    "chapters/specials/letters_speeches/seleucus_thera.md",
+    "chapters/specials/letters_speeches/thera_seleucus.md",
+    "chapters/specials/letters_speeches/war_update.md",
+    "chapters/specials/quotes/arthashastra/abandon_king.md",
+    "chapters/specials/quotes/arthashastra/adverserial.md",
+    "chapters/specials/quotes/arthashastra/all_three.md",
+    "chapters/specials/quotes/arthashastra/artha_alone.md",
+    "chapters/specials/quotes/arthashastra/ascetics_1.md",
+    "chapters/specials/quotes/arthashastra/ascetics_2.md",
+    "chapters/specials/quotes/arthashastra/astrology.md",
+    "chapters/specials/quotes/arthashastra/budget_surplus.md",
+    "chapters/specials/quotes/arthashastra/coercion.md",
+    "chapters/specials/quotes/arthashastra/collapsible_palace.md",
+    "chapters/specials/quotes/arthashastra/colonies.md",
+    "chapters/specials/quotes/arthashastra/council.md",
+    "chapters/specials/quotes/arthashastra/coup.md",
+    "chapters/specials/quotes/arthashastra/debt.md",
+    "chapters/specials/quotes/arthashastra/def_victory.md",
+    "chapters/specials/quotes/arthashastra/delusion.md",
+    "chapters/specials/quotes/arthashastra/delusive_chamber.md",
+    "chapters/specials/quotes/arthashastra/destroy_enemy.md",
+    "chapters/specials/quotes/arthashastra/divided_rule.md",
+    "chapters/specials/quotes/arthashastra/elements.md",
+    "chapters/specials/quotes/arthashastra/facial_signs.md",
+    "chapters/specials/quotes/arthashastra/field.md",
+    "chapters/specials/quotes/arthashastra/fishes.md",
+    "chapters/specials/quotes/arthashastra/friends.md",
+    "chapters/specials/quotes/arthashastra/full_page_vizhdam.md",
+    "chapters/specials/quotes/arthashastra/general_war_strat.md",
+    "chapters/specials/quotes/arthashastra/go_elsewhere.md",
+    "chapters/specials/quotes/arthashastra/godliness.md",
+    "chapters/specials/quotes/arthashastra/godliness_2.md",
+    "chapters/specials/quotes/arthashastra/godliness_3.md",
+    "chapters/specials/quotes/arthashastra/godliness_4.md",
+    "chapters/specials/quotes/arthashastra/hostage.md",
+    "chapters/specials/quotes/arthashastra/hostage_2.md",
+    "chapters/specials/quotes/arthashastra/hunter.md",
+    "chapters/specials/quotes/arthashastra/king_duty_1.md",
+    "chapters/specials/quotes/arthashastra/king_duty_2.md",
+    "chapters/specials/quotes/arthashastra/king_duty_3.md",
+    "chapters/specials/quotes/arthashastra/law.md",
+    "chapters/specials/quotes/arthashastra/law_2.md",
+    "chapters/specials/quotes/arthashastra/law_3.md",
+    "chapters/specials/quotes/arthashastra/law_4.md",
+    "chapters/specials/quotes/arthashastra/making_excuses.md",
+    "chapters/specials/quotes/arthashastra/marriage.md",
+    "chapters/specials/quotes/arthashastra/minister_employment.md",
+    "chapters/specials/quotes/arthashastra/more yantra.md",
+    "chapters/specials/quotes/arthashastra/negligence.md",
+    "chapters/specials/quotes/arthashastra/omniscience.md",
+    "chapters/specials/quotes/arthashastra/passport.md",
+    "chapters/specials/quotes/arthashastra/personal_security.md",
+    "chapters/specials/quotes/arthashastra/personal_security_2.md",
+    "chapters/specials/quotes/arthashastra/porus.md",
+    "chapters/specials/quotes/arthashastra/profit_loss.md",
+    "chapters/specials/quotes/arthashastra/prostitutes.md",
+    "chapters/specials/quotes/arthashastra/protect_army.md",
+    "chapters/specials/quotes/arthashastra/qualities.md",
+    "chapters/specials/quotes/arthashastra/quotable.md",
+    "chapters/specials/quotes/arthashastra/ravana_duryodhana.md",
+    "chapters/specials/quotes/arthashastra/README.md",
+    "chapters/specials/quotes/arthashastra/restraint.md",
+    "chapters/specials/quotes/arthashastra/revenue_strats.md",
+    "chapters/specials/quotes/arthashastra/sabotage_fort.md",
+    "chapters/specials/quotes/arthashastra/samkarsana.md",
+    "chapters/specials/quotes/arthashastra/scaring_prince.md",
+    "chapters/specials/quotes/arthashastra/sceptre.md",
+    "chapters/specials/quotes/arthashastra/scheme_0.md",
+    "chapters/specials/quotes/arthashastra/scheme_1.md",
+    "chapters/specials/quotes/arthashastra/scheme_2.md",
+    "chapters/specials/quotes/arthashastra/scheme_3.md",
+    "chapters/specials/quotes/arthashastra/scheme_4.md",
+    "chapters/specials/quotes/arthashastra/scheme_5.md",
+    "chapters/specials/quotes/arthashastra/scheme_6.md",
+    "chapters/specials/quotes/arthashastra/scheme_7.md",
+    "chapters/specials/quotes/arthashastra/scheme_8.md",
+    "chapters/specials/quotes/arthashastra/sciences.md",
+    "chapters/specials/quotes/arthashastra/self-protection.md",
+    "chapters/specials/quotes/arthashastra/siege_fort.md",
+    "chapters/specials/quotes/arthashastra/slavery.md",
+    "chapters/specials/quotes/arthashastra/spies_1.md",
+    "chapters/specials/quotes/arthashastra/spies_2.md",
+    "chapters/specials/quotes/arthashastra/spies_3.md",
+    "chapters/specials/quotes/arthashastra/spies_4.md",
+    "chapters/specials/quotes/arthashastra/spies_5.md",
+    "chapters/specials/quotes/arthashastra/spies_6.md",
+    "chapters/specials/quotes/arthashastra/spies_7.md",
+    "chapters/specials/quotes/arthashastra/sports.md",
+    "chapters/specials/quotes/arthashastra/strategy.md",
+    "chapters/specials/quotes/arthashastra/strength.md",
+    "chapters/specials/quotes/arthashastra/upon_conquering.md",
+    "chapters/specials/quotes/arthashastra/using_enemies.md",
+    "chapters/specials/quotes/arthashastra/using_enemies_2.md",
+    "chapters/specials/quotes/arthashastra/using_enemies_3.md",
+    "chapters/specials/quotes/arthashastra/virginity.md",
+    "chapters/specials/quotes/arthashastra/vyuha.md",
+    "chapters/specials/quotes/arthashastra/which_is_better.md",
+    "chapters/specials/quotes/arthashastra/which_is_better_2.md",
+    "chapters/specials/quotes/arthashastra/which_is_better_3.md",
+    "chapters/specials/quotes/arthashastra/which_is_better_4.md",
+    "chapters/specials/quotes/arthashastra/which_is_better_5.md",
+    "chapters/specials/quotes/arthashastra/which_is_better_6.md",
+    "chapters/specials/quotes/arthashastra/wicked_impressions.md",
+    "chapters/specials/quotes/arthashastra/woman_scorned.md",
+    "chapters/specials/quotes/arthashastra/writ.md",
+    "chapters/specials/quotes/canakya_niti/antinational.md",
+    "chapters/specials/quotes/canakya_niti/bad_country.md",
+    "chapters/specials/quotes/canakya_niti/beating.md",
+    "chapters/specials/quotes/canakya_niti/do_not_announce.md",
+    "chapters/specials/quotes/canakya_niti/education.md",
+    "chapters/specials/quotes/canakya_niti/envy.md",
+    "chapters/specials/quotes/canakya_niti/foolish.md",
+    "chapters/specials/quotes/canakya_niti/irredeemable.md",
+    "chapters/specials/quotes/canakya_niti/parenting.md",
+    "chapters/specials/quotes/canakya_niti/ranchod.md",
+    "chapters/specials/quotes/canakya_niti/README.md",
+    "chapters/specials/quotes/canakya_niti/trees.md",
+    "chapters/specials/quotes/canakya_niti/truth_win.md",
+    "chapters/specials/quotes/canakya_niti/women.md",
+    "chapters/specials/quotes/greek/afghan_obscene.md",
+    "chapters/specials/quotes/greek/afghan_obscene_2.md",
+    "chapters/specials/quotes/greek/apple.md",
+    "chapters/specials/quotes/greek/boomer.md",
+    "chapters/specials/quotes/greek/cities.md",
+    "chapters/specials/quotes/greek/elephant_beauty.md",
+    "chapters/specials/quotes/greek/indian_archer.md",
+    "chapters/specials/quotes/greek/indian_cavalry.md",
+    "chapters/specials/quotes/greek/infrastructure.md",
+    "chapters/specials/quotes/greek/meal_timing.md",
+    "chapters/specials/quotes/greek/meroes.md",
+    "chapters/specials/quotes/greek/ministry_of_war_machines.md",
+    "chapters/specials/quotes/greek/never_invaded.md",
+    "chapters/specials/quotes/greek/README.md",
+    "chapters/specials/quotes/greek/slavery.md",
+    "chapters/specials/quotes/greek/synod.md",
+    "chapters/specials/quotes/greek/tall.md",
+    "chapters/specials/quotes/misc/caste.md",
+    "chapters/specials/quotes/misc/gita.md",
+    "chapters/specials/quotes/misc/gita_2.md",
+    "chapters/specials/quotes/misc/gita_3.md",
+    "chapters/specials/quotes/misc/gordian.md",
+    "chapters/specials/quotes/misc/hero.md",
+    "chapters/specials/quotes/misc/krsna.md",
+    "chapters/specials/quotes/misc/mayurasarma.md",
+    "chapters/specials/quotes/misc/obtain_woman.md",
+    "chapters/specials/quotes/misc/README.md",
+    "chapters/specials/quotes/misc/sakala.md",
+    "chapters/specials/quotes/misc/theory_practice.md",
+    "chapters/specials/quotes/misc/wedding.md",
+    "chapters/specials/rajamandala/PREFIX.md",
+    "chapters/specials/rajamandala/with_guards.md",
+    "chapters/specials/treaty.md",
+    "chapters/vasudeva/1.1_catapult.md",
+    "chapters/vasudeva/1.2_rebels.md",
+    "chapters/vasudeva/1.3_coup.md",
+    "chapters/vasudeva/1.4_coronation.md",
+    "chapters/vasudeva/1.5_birth.md",
+    "chapters/vasudeva/2.1_childhood.md",
+    "chapters/vasudeva/2.2_licchavi.md",
+    "chapters/vasudeva/2.3_mother.md",
+    "chapters/vasudeva/2.4_father.md",
+    "chapters/vasudeva/2.5_wife.md",
+    "chapters/vasudeva/2.6_letter.md",
+    "chapters/vasudeva/2.7_ayodhya_1.md",
+    "chapters/vasudeva/2.7_ayodhya_2.md",
+    "chapters/vasudeva/2.8_death.md",
+    "chapters/dasarajna.md",
+    "lore.md",
+    "outline.md",
+    "README.md",
+    "TODO.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "-img/midjourney/ajatasatru_1.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 395889,
+      "exportedPath": "-img/midjourney/ajatasatru_1.png",
+      "dependencies": []
+    },
+    "-img/midjourney/ajatasatru_2.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 397296,
+      "exportedPath": "-img/midjourney/ajatasatru_2.png",
+      "dependencies": []
+    },
+    "-img/midjourney/ajatasatru_3.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 501908,
+      "exportedPath": "-img/midjourney/ajatasatru_3.png",
+      "dependencies": []
+    },
+    "-img/midjourney/ajatasatru_4.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 430502,
+      "exportedPath": "-img/midjourney/ajatasatru_4.png",
+      "dependencies": []
+    },
+    "-img/midjourney/ajatasatru_son.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 395771,
+      "exportedPath": "-img/midjourney/ajatasatru_son.png",
+      "dependencies": []
+    },
+    "-img/midjourney/alexander_roxana.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 428396,
+      "exportedPath": "-img/midjourney/alexander_roxana.png",
+      "dependencies": []
+    },
+    "-img/midjourney/canakya.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 390179,
+      "exportedPath": "-img/midjourney/canakya.png",
+      "dependencies": []
+    },
+    "-img/midjourney/canakya_puskaradharini.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 431332,
+      "exportedPath": "-img/midjourney/canakya_puskaradharini.png",
+      "dependencies": []
+    },
+    "-img/midjourney/canin.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 339626,
+      "exportedPath": "-img/midjourney/canin.png",
+      "dependencies": []
+    },
+    "-img/midjourney/ghrtaci.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 410880,
+      "exportedPath": "-img/midjourney/ghrtaci.png",
+      "dependencies": []
+    },
+    "-img/midjourney/krpa.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 426931,
+      "exportedPath": "-img/midjourney/krpa.png",
+      "dependencies": []
+    },
+    "-img/midjourney/messengers.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 454384,
+      "exportedPath": "-img/midjourney/messengers.png",
+      "dependencies": []
+    },
+    "-img/midjourney/rupakosa_1.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 362475,
+      "exportedPath": "-img/midjourney/rupakosa_1.png",
+      "dependencies": []
+    },
+    "-img/midjourney/rupakosa_2.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 372515,
+      "exportedPath": "-img/midjourney/rupakosa_2.png",
+      "dependencies": []
+    },
+    "-img/midjourney/rupakosa_3.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 400688,
+      "exportedPath": "-img/midjourney/rupakosa_3.png",
+      "dependencies": []
+    },
+    "-img/midjourney/seal.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 141900,
+      "exportedPath": "-img/midjourney/seal.png",
+      "dependencies": []
+    },
+    "-img/midjourney/taxila_student.jpeg": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 80962,
+      "exportedPath": "-img/midjourney/taxila_student.jpeg",
+      "dependencies": []
+    },
+    "-img/midjourney/taxila_student_2.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 429018,
+      "exportedPath": "-img/midjourney/taxila_student_2.png",
+      "dependencies": []
+    },
+    "-img/midjourney/taxila_student_3.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 347574,
+      "exportedPath": "-img/midjourney/taxila_student_3.png",
+      "dependencies": []
+    },
+    "-img/midjourney/thera.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 186378,
+      "exportedPath": "-img/midjourney/thera.png",
+      "dependencies": []
+    },
+    "-img/midjourney/wanderer.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 339799,
+      "exportedPath": "-img/midjourney/wanderer.png",
+      "dependencies": []
+    },
+    "-img/midjourney/war.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 363891,
+      "exportedPath": "-img/midjourney/war.png",
+      "dependencies": []
+    },
+    "-img/midjourney/yasomati.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 498962,
+      "exportedPath": "-img/midjourney/yasomati.png",
+      "dependencies": []
+    },
+    "-img/obsidian.png": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 200628,
+      "exportedPath": "-img/obsidian.png",
+      "dependencies": []
+    },
+    "chapters/0/0.1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 6340,
+      "exportedPath": "chapters/0/0.1.html",
+      "dependencies": []
+    },
+    "chapters/0/0.2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 10871,
+      "exportedPath": "chapters/0/0.2.html",
+      "dependencies": []
+    },
+    "chapters/1/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 69,
+      "exportedPath": "chapters/1/README.html",
+      "dependencies": []
+    },
+    "chapters/1/1.1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 12152,
+      "exportedPath": "chapters/1/1.1.html",
+      "dependencies": []
+    },
+    "chapters/1/1.2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 30485,
+      "exportedPath": "chapters/1/1.2.html",
+      "dependencies": []
+    },
+    "chapters/1/1.3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 18509,
+      "exportedPath": "chapters/1/1.3.html",
+      "dependencies": []
+    },
+    "chapters/1/1.4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 12221,
+      "exportedPath": "chapters/1/1.4.html",
+      "dependencies": []
+    },
+    "chapters/1/1.5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 20513,
+      "exportedPath": "chapters/1/1.5.html",
+      "dependencies": []
+    },
+    "chapters/1/1.6.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 5778,
+      "exportedPath": "chapters/1/1.6.html",
+      "dependencies": []
+    },
+    "chapters/1/1.7.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 12487,
+      "exportedPath": "chapters/1/1.7.html",
+      "dependencies": []
+    },
+    "chapters/1/1.8.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 12272,
+      "exportedPath": "chapters/1/1.8.html",
+      "dependencies": []
+    },
+    "chapters/1/1.9.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 462,
+      "exportedPath": "chapters/1/1.9.html",
+      "dependencies": []
+    },
+    "chapters/1/1.10.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 31387,
+      "exportedPath": "chapters/1/1.10.html",
+      "dependencies": []
+    },
+    "chapters/1/1.11.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 9321,
+      "exportedPath": "chapters/1/1.11.html",
+      "dependencies": []
+    },
+    "chapters/2/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 57,
+      "exportedPath": "chapters/2/README.html",
+      "dependencies": []
+    },
+    "chapters/2/2.1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 15924,
+      "exportedPath": "chapters/2/2.1.html",
+      "dependencies": []
+    },
+    "chapters/2/2.2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4921,
+      "exportedPath": "chapters/2/2.2.html",
+      "dependencies": []
+    },
+    "chapters/2/2.3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 6030,
+      "exportedPath": "chapters/2/2.3.html",
+      "dependencies": []
+    },
+    "chapters/2/2.4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2019,
+      "exportedPath": "chapters/2/2.4.html",
+      "dependencies": []
+    },
+    "chapters/2/2.5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 14769,
+      "exportedPath": "chapters/2/2.5.html",
+      "dependencies": []
+    },
+    "chapters/3/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 55,
+      "exportedPath": "chapters/3/README.html",
+      "dependencies": []
+    },
+    "chapters/3/3.1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3428,
+      "exportedPath": "chapters/3/3.1.html",
+      "dependencies": []
+    },
+    "chapters/3/3.2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 10328,
+      "exportedPath": "chapters/3/3.2.html",
+      "dependencies": []
+    },
+    "chapters/3/3.3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 11258,
+      "exportedPath": "chapters/3/3.3.html",
+      "dependencies": []
+    },
+    "chapters/3/3.4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 32675,
+      "exportedPath": "chapters/3/3.4.html",
+      "dependencies": []
+    },
+    "chapters/3/3.5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 11458,
+      "exportedPath": "chapters/3/3.5.html",
+      "dependencies": []
+    },
+    "chapters/3/3.6.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 13008,
+      "exportedPath": "chapters/3/3.6.html",
+      "dependencies": []
+    },
+    "chapters/3/3.7.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 11639,
+      "exportedPath": "chapters/3/3.7.html",
+      "dependencies": []
+    },
+    "chapters/3/3.8.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 13172,
+      "exportedPath": "chapters/3/3.8.html",
+      "dependencies": []
+    },
+    "chapters/3/3.9.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7863,
+      "exportedPath": "chapters/3/3.9.html",
+      "dependencies": []
+    },
+    "chapters/3/3.10.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 13298,
+      "exportedPath": "chapters/3/3.10.html",
+      "dependencies": []
+    },
+    "chapters/3/3.11.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 245,
+      "exportedPath": "chapters/3/3.11.html",
+      "dependencies": []
+    },
+    "chapters/3/3.12.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 13511,
+      "exportedPath": "chapters/3/3.12.html",
+      "dependencies": []
+    },
+    "chapters/4/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 65,
+      "exportedPath": "chapters/4/README.html",
+      "dependencies": []
+    },
+    "chapters/4/4.1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 312,
+      "exportedPath": "chapters/4/4.1.html",
+      "dependencies": []
+    },
+    "chapters/4/4.2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 465,
+      "exportedPath": "chapters/4/4.2.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 40,
+      "exportedPath": "chapters/rough/4/README.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/canakya_ghrtaci_more_convo.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 438,
+      "exportedPath": "chapters/rough/4/canakya_ghrtaci_more_convo.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/conference.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1201,
+      "exportedPath": "chapters/rough/4/conference.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/greek_dark_day.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3308,
+      "exportedPath": "chapters/rough/4/greek_dark_day.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/martyr.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 169,
+      "exportedPath": "chapters/rough/4/martyr.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/resistance_futile.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 434,
+      "exportedPath": "chapters/rough/4/resistance_futile.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/speech.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1216,
+      "exportedPath": "chapters/rough/4/speech.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/vaisali.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 569,
+      "exportedPath": "chapters/rough/4/vaisali.html",
+      "dependencies": []
+    },
+    "chapters/rough/4/when_to_assassinate.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1102,
+      "exportedPath": "chapters/rough/4/when_to_assassinate.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 36,
+      "exportedPath": "chapters/rough/5/README.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/durdhara_marriage.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 14223,
+      "exportedPath": "chapters/rough/5/durdhara_marriage.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/first_steps.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4760,
+      "exportedPath": "chapters/rough/5/first_steps.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/friend_foe.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2935,
+      "exportedPath": "chapters/rough/5/friend_foe.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/last_amazon.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 290,
+      "exportedPath": "chapters/rough/5/last_amazon.html",
+      "dependencies": []
+    },
+    "chapters/rough/5/spoiler.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2239,
+      "exportedPath": "chapters/rough/5/spoiler.html",
+      "dependencies": []
+    },
+    "chapters/rough/6/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 45,
+      "exportedPath": "chapters/rough/6/README.html",
+      "dependencies": []
+    },
+    "chapters/rough/6/bhadrabahu_debate.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1280,
+      "exportedPath": "chapters/rough/6/bhadrabahu_debate.html",
+      "dependencies": []
+    },
+    "chapters/rough/6/canakya_candragupta_final_words.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1469,
+      "exportedPath": "chapters/rough/6/canakya_candragupta_final_words.html",
+      "dependencies": []
+    },
+    "chapters/rough/6/durdhara_death.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4078,
+      "exportedPath": "chapters/rough/6/durdhara_death.html",
+      "dependencies": []
+    },
+    "chapters/rough/6/southern_campaign.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2005,
+      "exportedPath": "chapters/rough/6/southern_campaign.html",
+      "dependencies": []
+    },
+    "chapters/specials/lectures/elements.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 5845,
+      "exportedPath": "chapters/specials/lectures/elements.html",
+      "dependencies": []
+    },
+    "chapters/specials/lectures/PREFIX.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 632,
+      "exportedPath": "chapters/specials/lectures/PREFIX.html",
+      "dependencies": []
+    },
+    "chapters/specials/lectures/spies.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7436,
+      "exportedPath": "chapters/specials/lectures/spies.html",
+      "dependencies": []
+    },
+    "chapters/specials/lectures/war.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 17742,
+      "exportedPath": "chapters/specials/lectures/war.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/arjunayana.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1960,
+      "exportedPath": "chapters/specials/letters_speeches/arjunayana.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/augraseniya_father.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1660,
+      "exportedPath": "chapters/specials/letters_speeches/augraseniya_father.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/avarna.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3367,
+      "exportedPath": "chapters/specials/letters_speeches/avarna.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/ghrtaci.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2357,
+      "exportedPath": "chapters/specials/letters_speeches/ghrtaci.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/ghrtaci_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 91,
+      "exportedPath": "chapters/specials/letters_speeches/ghrtaci_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/magadha_persia.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3075,
+      "exportedPath": "chapters/specials/letters_speeches/magadha_persia.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/magadha_persia_aftermath.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4466,
+      "exportedPath": "chapters/specials/letters_speeches/magadha_persia_aftermath.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/pabbata_father.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 837,
+      "exportedPath": "chapters/specials/letters_speeches/pabbata_father.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/rupakosa_augraseniya.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1641,
+      "exportedPath": "chapters/specials/letters_speeches/rupakosa_augraseniya.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/sakadala_dhanananda.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1923,
+      "exportedPath": "chapters/specials/letters_speeches/sakadala_dhanananda.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/seleucus_thera.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 216,
+      "exportedPath": "chapters/specials/letters_speeches/seleucus_thera.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/thera_seleucus.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 179,
+      "exportedPath": "chapters/specials/letters_speeches/thera_seleucus.html",
+      "dependencies": []
+    },
+    "chapters/specials/letters_speeches/war_update.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7214,
+      "exportedPath": "chapters/specials/letters_speeches/war_update.html",
+      "dependencies": []
+    },
+    "chapters/specials/rajamandala/PREFIX.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1716,
+      "exportedPath": "chapters/specials/rajamandala/PREFIX.html",
+      "dependencies": []
+    },
+    "chapters/specials/rajamandala/with_guards.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4045,
+      "exportedPath": "chapters/specials/rajamandala/with_guards.html",
+      "dependencies": []
+    },
+    "chapters/specials/treaty.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 12334,
+      "exportedPath": "chapters/specials/treaty.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/1.1_catapult.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3802,
+      "exportedPath": "chapters/vasudeva/1.1_catapult.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/1.2_rebels.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7989,
+      "exportedPath": "chapters/vasudeva/1.2_rebels.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/1.3_coup.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1508,
+      "exportedPath": "chapters/vasudeva/1.3_coup.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/1.4_coronation.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2756,
+      "exportedPath": "chapters/vasudeva/1.4_coronation.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/1.5_birth.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 425,
+      "exportedPath": "chapters/vasudeva/1.5_birth.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.1_childhood.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3405,
+      "exportedPath": "chapters/vasudeva/2.1_childhood.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.2_licchavi.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 5923,
+      "exportedPath": "chapters/vasudeva/2.2_licchavi.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.3_mother.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 6835,
+      "exportedPath": "chapters/vasudeva/2.3_mother.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.4_father.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3918,
+      "exportedPath": "chapters/vasudeva/2.4_father.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.5_wife.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2365,
+      "exportedPath": "chapters/vasudeva/2.5_wife.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.6_letter.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2054,
+      "exportedPath": "chapters/vasudeva/2.6_letter.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.7_ayodhya_1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 6502,
+      "exportedPath": "chapters/vasudeva/2.7_ayodhya_1.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.7_ayodhya_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1857,
+      "exportedPath": "chapters/vasudeva/2.7_ayodhya_2.html",
+      "dependencies": []
+    },
+    "chapters/vasudeva/2.8_death.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 10516,
+      "exportedPath": "chapters/vasudeva/2.8_death.html",
+      "dependencies": []
+    },
+    "chapters/dasarajna.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1175,
+      "exportedPath": "chapters/dasarajna.html",
+      "dependencies": []
+    },
+    "lore.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 9887,
+      "exportedPath": "lore.html",
+      "dependencies": []
+    },
+    "outline.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 8849,
+      "exportedPath": "outline.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 5908,
+      "exportedPath": "README.html",
+      "dependencies": []
+    },
+    "TODO.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3176,
+      "exportedPath": "TODO.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 53784,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 7539,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1713353700520,
+      "sourceSize": 1075,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/abandon_king.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 303,
+      "exportedPath": "chapters/specials/quotes/arthashastra/abandon_king.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/adverserial.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 348,
+      "exportedPath": "chapters/specials/quotes/arthashastra/adverserial.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/all_three.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 291,
+      "exportedPath": "chapters/specials/quotes/arthashastra/all_three.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/artha_alone.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 195,
+      "exportedPath": "chapters/specials/quotes/arthashastra/artha_alone.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/ascetics_1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 593,
+      "exportedPath": "chapters/specials/quotes/arthashastra/ascetics_1.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/ascetics_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 445,
+      "exportedPath": "chapters/specials/quotes/arthashastra/ascetics_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/astrology.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 744,
+      "exportedPath": "chapters/specials/quotes/arthashastra/astrology.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/budget_surplus.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1203,
+      "exportedPath": "chapters/specials/quotes/arthashastra/budget_surplus.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/coercion.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 379,
+      "exportedPath": "chapters/specials/quotes/arthashastra/coercion.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/collapsible_palace.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 694,
+      "exportedPath": "chapters/specials/quotes/arthashastra/collapsible_palace.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/colonies.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1337,
+      "exportedPath": "chapters/specials/quotes/arthashastra/colonies.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/council.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1188,
+      "exportedPath": "chapters/specials/quotes/arthashastra/council.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/coup.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1876,
+      "exportedPath": "chapters/specials/quotes/arthashastra/coup.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/debt.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1098,
+      "exportedPath": "chapters/specials/quotes/arthashastra/debt.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/def_victory.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 293,
+      "exportedPath": "chapters/specials/quotes/arthashastra/def_victory.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/delusion.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 450,
+      "exportedPath": "chapters/specials/quotes/arthashastra/delusion.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/delusive_chamber.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 229,
+      "exportedPath": "chapters/specials/quotes/arthashastra/delusive_chamber.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/destroy_enemy.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 385,
+      "exportedPath": "chapters/specials/quotes/arthashastra/destroy_enemy.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/divided_rule.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 790,
+      "exportedPath": "chapters/specials/quotes/arthashastra/divided_rule.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/elements.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 173,
+      "exportedPath": "chapters/specials/quotes/arthashastra/elements.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/facial_signs.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 990,
+      "exportedPath": "chapters/specials/quotes/arthashastra/facial_signs.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/field.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 345,
+      "exportedPath": "chapters/specials/quotes/arthashastra/field.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/fishes.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 308,
+      "exportedPath": "chapters/specials/quotes/arthashastra/fishes.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/friends.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 692,
+      "exportedPath": "chapters/specials/quotes/arthashastra/friends.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/full_page_vizhdam.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2887,
+      "exportedPath": "chapters/specials/quotes/arthashastra/full_page_vizhdam.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/general_war_strat.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1593,
+      "exportedPath": "chapters/specials/quotes/arthashastra/general_war_strat.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/go_elsewhere.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 315,
+      "exportedPath": "chapters/specials/quotes/arthashastra/go_elsewhere.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/godliness.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1189,
+      "exportedPath": "chapters/specials/quotes/arthashastra/godliness.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/godliness_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 948,
+      "exportedPath": "chapters/specials/quotes/arthashastra/godliness_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/godliness_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 319,
+      "exportedPath": "chapters/specials/quotes/arthashastra/godliness_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/godliness_4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 298,
+      "exportedPath": "chapters/specials/quotes/arthashastra/godliness_4.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/hostage.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 344,
+      "exportedPath": "chapters/specials/quotes/arthashastra/hostage.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/hostage_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 309,
+      "exportedPath": "chapters/specials/quotes/arthashastra/hostage_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/hunter.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 358,
+      "exportedPath": "chapters/specials/quotes/arthashastra/hunter.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/king_duty_1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 676,
+      "exportedPath": "chapters/specials/quotes/arthashastra/king_duty_1.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/king_duty_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 567,
+      "exportedPath": "chapters/specials/quotes/arthashastra/king_duty_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/king_duty_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 264,
+      "exportedPath": "chapters/specials/quotes/arthashastra/king_duty_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/law.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2057,
+      "exportedPath": "chapters/specials/quotes/arthashastra/law.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/law_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 451,
+      "exportedPath": "chapters/specials/quotes/arthashastra/law_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/law_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 734,
+      "exportedPath": "chapters/specials/quotes/arthashastra/law_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/law_4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 284,
+      "exportedPath": "chapters/specials/quotes/arthashastra/law_4.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/making_excuses.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 879,
+      "exportedPath": "chapters/specials/quotes/arthashastra/making_excuses.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/marriage.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1365,
+      "exportedPath": "chapters/specials/quotes/arthashastra/marriage.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/minister_employment.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1427,
+      "exportedPath": "chapters/specials/quotes/arthashastra/minister_employment.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/more yantra.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 102,
+      "exportedPath": "chapters/specials/quotes/arthashastra/more yantra.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/negligence.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 244,
+      "exportedPath": "chapters/specials/quotes/arthashastra/negligence.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/omniscience.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 629,
+      "exportedPath": "chapters/specials/quotes/arthashastra/omniscience.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/passport.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 565,
+      "exportedPath": "chapters/specials/quotes/arthashastra/passport.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/personal_security.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1107,
+      "exportedPath": "chapters/specials/quotes/arthashastra/personal_security.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/personal_security_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2381,
+      "exportedPath": "chapters/specials/quotes/arthashastra/personal_security_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/porus.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 914,
+      "exportedPath": "chapters/specials/quotes/arthashastra/porus.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/profit_loss.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 249,
+      "exportedPath": "chapters/specials/quotes/arthashastra/profit_loss.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/prostitutes.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 414,
+      "exportedPath": "chapters/specials/quotes/arthashastra/prostitutes.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/protect_army.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 478,
+      "exportedPath": "chapters/specials/quotes/arthashastra/protect_army.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/qualities.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1216,
+      "exportedPath": "chapters/specials/quotes/arthashastra/qualities.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/quotable.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 6519,
+      "exportedPath": "chapters/specials/quotes/arthashastra/quotable.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/ravana_duryodhana.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 805,
+      "exportedPath": "chapters/specials/quotes/arthashastra/ravana_duryodhana.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 4224,
+      "exportedPath": "chapters/specials/quotes/arthashastra/README.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/restraint.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1182,
+      "exportedPath": "chapters/specials/quotes/arthashastra/restraint.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/revenue_strats.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1980,
+      "exportedPath": "chapters/specials/quotes/arthashastra/revenue_strats.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/sabotage_fort.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1180,
+      "exportedPath": "chapters/specials/quotes/arthashastra/sabotage_fort.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/samkarsana.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 317,
+      "exportedPath": "chapters/specials/quotes/arthashastra/samkarsana.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scaring_prince.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1082,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scaring_prince.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/sceptre.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 482,
+      "exportedPath": "chapters/specials/quotes/arthashastra/sceptre.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_0.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 226,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_0.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 710,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_1.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1132,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 562,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 414,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_4.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2262,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_5.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_6.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 1068,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_6.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_7.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 970,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_7.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/scheme_8.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 460,
+      "exportedPath": "chapters/specials/quotes/arthashastra/scheme_8.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/sciences.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 562,
+      "exportedPath": "chapters/specials/quotes/arthashastra/sciences.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/self-protection.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 409,
+      "exportedPath": "chapters/specials/quotes/arthashastra/self-protection.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/siege_fort.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 7974,
+      "exportedPath": "chapters/specials/quotes/arthashastra/siege_fort.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/slavery.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 194,
+      "exportedPath": "chapters/specials/quotes/arthashastra/slavery.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_1.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 245,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_1.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 242,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 308,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 289,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_4.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 317,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_5.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_6.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 378,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_6.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/spies_7.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 243,
+      "exportedPath": "chapters/specials/quotes/arthashastra/spies_7.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/sports.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 590,
+      "exportedPath": "chapters/specials/quotes/arthashastra/sports.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/strategy.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 205,
+      "exportedPath": "chapters/specials/quotes/arthashastra/strategy.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/strength.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 266,
+      "exportedPath": "chapters/specials/quotes/arthashastra/strength.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/upon_conquering.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3020,
+      "exportedPath": "chapters/specials/quotes/arthashastra/upon_conquering.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/using_enemies.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 175,
+      "exportedPath": "chapters/specials/quotes/arthashastra/using_enemies.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/using_enemies_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 285,
+      "exportedPath": "chapters/specials/quotes/arthashastra/using_enemies_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/using_enemies_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 573,
+      "exportedPath": "chapters/specials/quotes/arthashastra/using_enemies_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/virginity.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 476,
+      "exportedPath": "chapters/specials/quotes/arthashastra/virginity.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/vyuha.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 3894,
+      "exportedPath": "chapters/specials/quotes/arthashastra/vyuha.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 598,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 531,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 422,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better_4.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 488,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better_4.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better_5.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 621,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better_5.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/which_is_better_6.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 410,
+      "exportedPath": "chapters/specials/quotes/arthashastra/which_is_better_6.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/wicked_impressions.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 160,
+      "exportedPath": "chapters/specials/quotes/arthashastra/wicked_impressions.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/woman_scorned.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 160,
+      "exportedPath": "chapters/specials/quotes/arthashastra/woman_scorned.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/arthashastra/writ.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 490,
+      "exportedPath": "chapters/specials/quotes/arthashastra/writ.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/antinational.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 203,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/antinational.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/bad_country.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 570,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/bad_country.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/beating.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 230,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/beating.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/do_not_announce.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 208,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/do_not_announce.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/education.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 217,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/education.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/envy.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 195,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/envy.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/foolish.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 261,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/foolish.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/irredeemable.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 248,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/irredeemable.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/parenting.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 226,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/parenting.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/ranchod.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 198,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/ranchod.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 844,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/README.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/trees.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 222,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/trees.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/truth_win.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 244,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/truth_win.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/canakya_niti/women.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 174,
+      "exportedPath": "chapters/specials/quotes/canakya_niti/women.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/afghan_obscene.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 186,
+      "exportedPath": "chapters/specials/quotes/greek/afghan_obscene.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/afghan_obscene_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 142,
+      "exportedPath": "chapters/specials/quotes/greek/afghan_obscene_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/apple.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 311,
+      "exportedPath": "chapters/specials/quotes/greek/apple.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/boomer.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 210,
+      "exportedPath": "chapters/specials/quotes/greek/boomer.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/cities.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 630,
+      "exportedPath": "chapters/specials/quotes/greek/cities.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/elephant_beauty.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 338,
+      "exportedPath": "chapters/specials/quotes/greek/elephant_beauty.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/indian_archer.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 188,
+      "exportedPath": "chapters/specials/quotes/greek/indian_archer.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/indian_cavalry.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 695,
+      "exportedPath": "chapters/specials/quotes/greek/indian_cavalry.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/infrastructure.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 805,
+      "exportedPath": "chapters/specials/quotes/greek/infrastructure.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/meal_timing.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 379,
+      "exportedPath": "chapters/specials/quotes/greek/meal_timing.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/meroes.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 201,
+      "exportedPath": "chapters/specials/quotes/greek/meroes.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/ministry_of_war_machines.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 997,
+      "exportedPath": "chapters/specials/quotes/greek/ministry_of_war_machines.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/never_invaded.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 2924,
+      "exportedPath": "chapters/specials/quotes/greek/never_invaded.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 994,
+      "exportedPath": "chapters/specials/quotes/greek/README.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/slavery.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 156,
+      "exportedPath": "chapters/specials/quotes/greek/slavery.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/synod.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 592,
+      "exportedPath": "chapters/specials/quotes/greek/synod.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/greek/tall.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 280,
+      "exportedPath": "chapters/specials/quotes/greek/tall.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/caste.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 724,
+      "exportedPath": "chapters/specials/quotes/misc/caste.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/gita.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 327,
+      "exportedPath": "chapters/specials/quotes/misc/gita.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/gita_2.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 384,
+      "exportedPath": "chapters/specials/quotes/misc/gita_2.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/gita_3.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 161,
+      "exportedPath": "chapters/specials/quotes/misc/gita_3.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/gordian.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 634,
+      "exportedPath": "chapters/specials/quotes/misc/gordian.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/hero.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 249,
+      "exportedPath": "chapters/specials/quotes/misc/hero.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/krsna.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 286,
+      "exportedPath": "chapters/specials/quotes/misc/krsna.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/mayurasarma.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 244,
+      "exportedPath": "chapters/specials/quotes/misc/mayurasarma.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/obtain_woman.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 298,
+      "exportedPath": "chapters/specials/quotes/misc/obtain_woman.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/README.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 643,
+      "exportedPath": "chapters/specials/quotes/misc/README.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/sakala.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 877,
+      "exportedPath": "chapters/specials/quotes/misc/sakala.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/theory_practice.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 234,
+      "exportedPath": "chapters/specials/quotes/misc/theory_practice.html",
+      "dependencies": []
+    },
+    "chapters/specials/quotes/misc/wedding.md": {
+      "modifiedTime": 1713373708924,
+      "sourceSize": 866,
+      "exportedPath": "chapters/specials/quotes/misc/wedding.html",
+      "dependencies": []
+    }
+  }
+}

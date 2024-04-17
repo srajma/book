@@ -1,0 +1,12 @@
+## personal_security_2
+> In a well-guarded locality, the head-cook shall supervise the preparation of varieties of relishing dishes. The king shall partake of such fresh dishes after making an oblation out of them first to the fire and then to birds.
+> 
+> When the flame and the smoke turn blue and crackle, and when birds (that eat the oblation) die, presence of poison (in the dish) shall be inferred. When the vapour arising from cooked rice possesses the colour of the neck of a peacock, and appears chill as if suddenly cooled, when vegetables possess an unnatural colour, and are watery and hardened, and appear to have suddenly turned dry, being possessed of broken layers of blackish foam, and being devoid of smell, touch and taste natural to them; when utensils reflect light either more or less than usual, and are covered with a layer of foam at their edges; when any liquid preparation possesses streaks on its surface; when milk bears a bluish streak in the centre of its surface; when liquor and water possess reddish streaks; when curd is marked with black and dark streaks, and honey with white streaks; when watery things appear parched as if overcooked and look blue and swollen; when dry things have shrank and changed in their colour; when hard things appear soft, and soft things hard; when minute animalculae die in the vicinity of the dishes; when carpets and curtains possess blackish circular spots, with their threads and hair fallen off; when metallic vessels set with gems appear tarnished as though by roasting, and have lost their polish, colour, shine, and softness of touch, presence of poison shall be inferred.
+> 
+> As to the person who has administered poison, the marks are parched and dry mouth; hesitation in speaking; heavy perspiration; yawning; too much bodily tremor; frequent tumbling; evasion of speech; carelessness in work; and unwillingness to keep to the place assigned to him.
+> 
+> Hence physicians and experts capable of detecting poison shall ever attend upon the king.
+> 
+> Having taken out from the store-room of medicines that medicine the purity of which has been proved by experiment, and having himself together with the decoctioner and the purveyor tasted it, the physician shall hand over the medicine to the king. The same rule shall apply to liquor and other beverages.
+> 
+> —Kautilya, in the Arthaśāstra, 1.21:4-10

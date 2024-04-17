@@ -1,0 +1,4 @@
+## law_3
+> Whether an accused is a stranger or a relative to a complainant, his defence witness shall, in the presence of the complainant, be asked as to the defendant’s country, caste, family, name, occupation, property, friends, and residence. The answers obtained shall be compared with the defendant’s own statements regarding the same. Then the defendant shall be asked as to not only the nature of the work he did during the day previous to the theft, but also the place where he spent the night till he was caught hold of. If his answers for these questions are attested to by reliable referees or witnesses, he shall be acquitted. Otherwise he shall be subjected to torture.
+> 
+> —Kautilya, in the Arthaśāstra, 4.8:1-4

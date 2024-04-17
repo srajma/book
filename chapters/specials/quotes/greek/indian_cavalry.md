@@ -1,0 +1,4 @@
+## indian_cavalry
+> Their horsemen have two javelins, like lances, and a small shield smaller than the infantry’s shields. The horses have no saddles, nor do they use Greek bits nor any like the Celtic bits. Instead, around the end of the horses’ mouths they have an untanned stitched rein fitted with fitted bronze or iron spikes (but somewhat blunted) on the inside. The rich people have ivory spikes. Within the mouth of the horses is a bit, like a spit, with reins attached at both ends. Then, when they tighten the reins, this bit controls the horse and the spikes attached to it prick the horse and force it to follow the rein.
+> 
+> —Megasthenes, according to Arrian’s Indica, 8.16

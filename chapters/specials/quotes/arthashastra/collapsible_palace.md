@@ -1,0 +1,4 @@
+## collapsible_palace
+> He shall construct his own residential palace after the model of his treasury-house; or he may have his residential abode in the centre of the chamber of illusions, provided with secret passages made into the walls; or in an underground chamber provided with the figures of goddesses and of altars (chaitya) carved on the wooden door-frame, and connected with many underground passages for exit; or in an upper storey provided with a staircase hidden in a wall, with a passage for exit made in a hollow pillar, the whole building being so constructed with mechanical contrivance as to be caused to fall down when necessary.
+> 
+> —Kautilya, in the Arthaśāstra, 1.20:2

@@ -1,0 +1,4 @@
+## cities
+> But of their cities it is said that the number is so great that it cannot be stated with precision, but that such cities as are situated on the banks of rivers or on the sea-coast are built of wood instead of brick, being meant to last only for a time, — so destructive are the heavy rains which pour down, and the rivers also when they overflow their banks and inundate the plains, — while those cities which stand on commanding situations and lofty eminences are built of brick and mud; that the greatest city in India is that which is called Palimbothra.
+> 
+> —Megasthenes, according to Arrian’s Indica, 10.

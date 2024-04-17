@@ -1,0 +1,6 @@
+## scheme_6
+> Spies, disguised as hunters, may take a stand near the gate of the enemy’s fort to sell flesh, and make friendship with the sentinels at the gate. Having informed the enemy of the arrival of thieves on two or three occasions, they may prove themselves to be of reliable character and cause him to split his army into two divisions and to station them in two different parts of his territory. When his villages are being plundered or besieged, they may tell him that thieves are come very near, that the tumult is very great, and that a large army is required.
+> 
+> They may take the army supplied, and surrendering it to the commander laying waste the villages, return at night with a part of the commander’s army, and cry aloud at the gate of the fort that the thieves are slain, that the army has returned victorious, and that the gate may be opened. When the gate is opened by the watchmen under the enemy’s order or by others in confidence, they may strike the enemy with the help of the army.
+> 
+> —Kautilya, in the Arthaśāstra, 13.3:40-43

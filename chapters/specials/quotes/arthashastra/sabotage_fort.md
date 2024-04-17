@@ -1,0 +1,6 @@
+## sabotage_fort
+> Painters, carpenters, heretics, actors, merchants, and other disguised spies belonging to the conqueror’s army may also reside inside the fort of the enemy. Spies, disguised as agriculturists, may supply them with weapons taken in carts loaded with firewood, grass, grains, and other commodities of commerce, or disguised as images and flags of gods. Then spies, disguised as priests, may announce to the enemy, blowing their conch-shells and beating their drums, that a besieging army, eager to destroy all, and armed with weapons, is coming closely behind them. Then in the ensuing tumult, they may surrender the fort gate and the towers of the fort to the army of the conqueror or disperse the enemy’s army and bring about his fall.
+> 
+> Or taking advantage of peace and friendship with the enemy, army and weapons may be collected inside the enemy’s fort by spies disguised as merchants, caravans, processions leading a bride, merchants selling horses, pedlars trading in miscellaneous articles, purchasers or sellers of grains, and as ascetics. These and others are the spies aiming at the life of a king.
+> 
+> —Kautilya, in the Arthaśāstra, 13.3

@@ -1,0 +1,6 @@
+## debt
+> When a profit is easily acquired and secured without the necessity of returning it to others, it is termed “receivable”; that which is of the reverse nature is “repayable”; whoever goes to receive a repayable profit or enjoys such a profit, is destroyed.
+> 
+> However, if one thinks that “by taking a repayable profit I shall cause my enemy’s treasury, army, and other defensive resources to dwindle; I shall exploit to impoverishment the mines, timber and elephant forests, irrigational works and roads of traffic of my enemy; I shall impoverish his subjects, or cause them to migrate, or conspire against him; when they are reduced to this condition, my enemy inflames their hatred (by punishing them); or I shall set my enemy against another enemy; my enemy will give up his hopes and run away to one who has some blood-relationship with him; or having improved his lands, I shall return them to him, and when he is thus brought to ascendancy, he will be a lasting friend of mine,” then he may take even a repayable profit.
+> 
+> —Kautilya, in the Arthaśāstra, 9.4:5-8

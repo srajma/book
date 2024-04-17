@@ -1,0 +1,4 @@
+## omniscience
+> Proclamation of his omniscience is as follows: rejection of his chief officers when their secret domestic and other private affairs are known; revealing the names of traitors after receiving information from spies specially employed to find out such men; pointing out the impolitic aspect of any course of action suggested to him; and pretensions to the knowledge of foreign affairs by means of his power to read omens and signs invisible to others when information about foreign affairs is just received through a domestic pigeon which has brought a sealed letter.
+> 
+> —Kautilya, in the Arthaśāstra, 13.1:2

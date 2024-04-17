@@ -1,0 +1,4 @@
+## godliness_2
+> Astrologers, sooth-sayers, horologists, story-tellers and sign-readers, together with spies and their disciples, inclusive of those who have witnessed the wonderful performances of the conqueror should give wide publicity to the power of the king to associate with gods throughout his territory. Likewise in foreign countries, they should spread the news of gods appearing before the conqueror and of his having received from heaven weapons and treasure. Those who are well versed in horary and astrology and the science of omens should proclaim abroad that the conqueror is a successful expert in explaining the indications of dreams and in understanding the language of beasts and birds. They should not only attribute the contrary to his enemy, but also show to the enemy's people the shower of firebrand with the noise of divine drums on the day of the birth-star of the enemy.
+> 
+> —Kautilya, in the Arthaśāstra, 13.1:7-10

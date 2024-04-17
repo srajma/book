@@ -1,0 +1,6 @@
+## scaring_prince
+> Hence [the prince] shall be taught only of righteousness and of wealth, but not of unrighteousness and of non-wealth. Classmate spies shall be so courteous towards him as to say “thine are we.”
+> 
+> When under the temptation of youth, he turns his eye towards women, impure women under the disguise of Āryas shall, at night and in lonely places, terrify him; when fond of liquor, he shall be terrified by making him drink drugged liquor; when fond of gambling, he shall be terrified by spies under the disguise of fraudulent persons; when fond of hunting, he shall be terrified by spies under the disguise of highway robbers; and when desirous of attacking his own father, he shall, under the pretence of compliance, be gradually persuaded of the evil consequences of such attempts, by telling: a king is not made by a mere wish; failure of thy attempt will bring about thy own death; success makes thee fall into hell and causes the people to lament for thy father and destroy the only clod, i.e. thyself.
+> 
+> —Kautilya, in the Arthaśāstra, 1.17:33-39
