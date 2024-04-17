@@ -192,6 +192,7 @@ apsara, fairy
 Kūṭayuddha and other yuddhas
 Ayudhajivi etc.
 Pāśupatāstra
+Arthaśāstra, Bhagavad Gītā, Upaniṣad, R̥gveda etc.
 **Units:** yojanā | ghati | droṇa | two-thirds half etc. kilometre hour etc.  | stadia etc. TODO: maybe make a format for this
 More in quotes folder, and in [Rājamanḍala/PREFIX](chapters/specials/rajamandala/PREFIX.md) look through them TODO
 ### Foreign terms

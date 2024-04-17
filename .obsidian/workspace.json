@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/4/4.2.md",
+                "file": "lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/4/4.2.md"
+                "file": "lore.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/4/4.2.md",
+                "file": "lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/4/4.2.md",
+                "file": "lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,51 +180,51 @@
   },
   "active": "f04a6dbb5ea619e0",
   "lastOpenFiles": [
-    "chapters/specials/quotes/canakya_niti/women.md",
-    "chapters/specials/quotes/canakya_niti/truth_win.md",
-    "chapters/specials/quotes/canakya_niti/README.md",
-    "chapters/specials/quotes/canakya_niti/ranchod.md",
-    "chapters/specials/quotes/canakya_niti/parenting.md",
-    "chapters/specials/quotes/canakya_niti/irredeemable.md",
-    "chapters/specials/quotes/canakya_niti/foolish.md",
-    "chapters/specials/quotes/canakya_niti/envy.md",
-    "chapters/specials/quotes/canakya_niti/education.md",
-    "chapters/specials/quotes/canakya_niti/do_not_announce.md",
-    "chapters/specials/quotes/canakya_niti/beating.md",
-    "chapters/specials/quotes/canakya_niti/bad_country.md",
-    "chapters/specials/quotes/canakya_niti/antinational.md",
-    "chapters/specials/quotes/arthashastra/writ.md",
-    "chapters/specials/quotes/arthashastra/woman_scorned.md",
-    "chapters/specials/quotes/arthashastra/wicked_impressions.md",
-    "chapters/specials/quotes/arthashastra/which_is_better_6.md",
-    "chapters/specials/quotes/arthashastra/which_is_better_5.md",
-    "chapters/specials/quotes/arthashastra/which_is_better_4.md",
-    "chapters/specials/quotes/arthashastra/which_is_better_3.md",
-    "chapters/specials/quotes/arthashastra/which_is_better_2.md",
-    "chapters/specials/quotes/arthashastra/which_is_better.md",
-    "chapters/specials/quotes/arthashastra/vyuha.md",
-    "chapters/specials/quotes/arthashastra/virginity.md",
-    "chapters/specials/quotes/arthashastra/using_enemies_3.md",
-    "chapters/specials/quotes/arthashastra/using_enemies_2.md",
-    "pers/add_yaml.sh",
-    "pers/script.sh",
-    "chapters/4/temp",
-    "chapters/4/script.sh",
-    "chapters/3/temp",
-    "chapters/3/script.sh",
-    "chapters/2/temp",
-    "chapters/2/script.sh",
-    "chapters/1/temp",
-    "chapters/1/script.sh",
-    "-img/midjourney/ajatasatru_1.png",
-    "-img/midjourney/ajatasatru_4.png",
-    "-img/midjourney/ajatasatru_3.png",
-    "-img/midjourney/ajatasatru_2.png",
-    "-attachments/old_imgs/ajatasatru0.png",
-    "-attachments/old_imgs/image22.png",
-    "-img/midjourney/messengers.png",
-    "-attachments/old_imgs/image7.png",
-    "-img/midjourney/rupakosa_3.png",
-    "-img/midjourney/rupakosa_2.png"
+    "docs/chapters/specials/quotes/misc/wedding.html",
+    "docs/chapters/specials/quotes/misc/theory_practice.html",
+    "docs/chapters/specials/quotes/misc/sakala.html",
+    "docs/chapters/specials/quotes/misc/gita_2.html",
+    "docs/chapters/specials/quotes/misc/krsna.html",
+    "docs/chapters/specials/quotes/misc/README.html",
+    "docs/chapters/specials/quotes/misc/obtain_woman.html",
+    "docs/chapters/specials/quotes/misc/mayurasarma.html",
+    "docs/chapters/specials/quotes/misc/hero.html",
+    "docs/chapters/specials/quotes/misc/gordian.html",
+    "docs/chapters/specials/quotes/misc/gita_3.html",
+    "docs/-img/midjourney/canin.png",
+    "docs/lib/media/favicon.png",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/-img/midjourney/yasomati.png",
+    "docs/-img/midjourney/war.png",
+    "docs/-img/midjourney/wanderer.png",
+    "docs/-img/midjourney/taxila_student_3.png",
+    "docs/-img/midjourney/thera.png",
+    "docs/-img/midjourney/ajatasatru_4.png",
+    "docs/-img/midjourney/taxila_student_2.png",
+    "TODO.md",
+    "lore.md",
+    "outline.md",
+    "index.md",
+    "chapters/specials/quotes/arthashastra/README.md",
+    "chapters/specials/quotes/arthashastra/ravana_duryodhana.md",
+    "chapters/specials/quotes/arthashastra/quotable.md",
+    "chapters/specials/quotes/arthashastra/qualities.md",
+    "chapters/specials/quotes/arthashastra/protect_army.md",
+    "chapters/specials/quotes/arthashastra/prostitutes.md",
+    "chapters/specials/quotes/arthashastra/profit_loss.md",
+    "chapters/specials/quotes/arthashastra/porus.md",
+    "chapters/specials/quotes/arthashastra/personal_security_2.md",
+    "chapters/specials/quotes/arthashastra/personal_security.md",
+    "chapters/specials/quotes/arthashastra/passport.md",
+    "chapters/specials/quotes/arthashastra/omniscience.md",
+    "chapters/specials/quotes/arthashastra/negligence.md",
+    "chapters/specials/quotes/arthashastra/more yantra.md",
+    "chapters/specials/quotes/arthashastra/minister_employment.md",
+    "chapters/specials/quotes/arthashastra/marriage.md",
+    "chapters/specials/quotes/arthashastra/making_excuses.md",
+    "chapters/specials/quotes/arthashastra/law_4.md",
+    "chapters/specials/quotes/arthashastra/law_3.md",
+    "chapters/specials/quotes/arthashastra/law_2.md",
+    "chapters/specials/quotes/arthashastra/law.md"
   ]
 }
