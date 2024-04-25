@@ -33,9 +33,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aadd01322189a6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef9ab57890986d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/specials/quotes/full_page_vizhdam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "463e5149d6767baa",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/1/1.2.md"
+                "file": "chapters/specials/quotes/full_page_vizhdam.md"
               }
             }
           },
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/1/1.2.md",
+                "file": "chapters/specials/quotes/full_page_vizhdam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/1/1.2.md",
+                "file": "chapters/specials/quotes/full_page_vizhdam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,90 +202,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "122a770f47ccee78",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1c7c57ea77ec4c3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "2eb9570a58eee808",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6d15977718b223c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "chapters/1/1.2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 316,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e6d15977718b223c",
+  "active": "ef9ab57890986d7d",
   "lastOpenFiles": [
+    "docs/docs/docs/TODO.html",
+    "docs/docs/docs/outline.html",
+    "docs/docs/docs/lore.html",
+    "docs/docs/docs/index.html",
+    "docs/docs/docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/docs/docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/docs/docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/docs/docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/docs/docs/-img/obsidian.png",
+    "docs/docs/docs/-img/midjourney/yasomati.png",
+    "docs/docs/docs/-img/midjourney/war.png",
+    "docs/docs/docs/-img/midjourney/wanderer.png",
+    "docs/docs/docs/-img/midjourney/thera.png",
+    "docs/docs/docs/-img/midjourney/taxila_student_3.png",
+    "docs/docs/docs/-img/midjourney/taxila_student_2.png",
+    "docs/docs/docs/-img/midjourney/taxila_student.jpeg",
+    "docs/docs/docs/-img/midjourney/seal.png",
+    "chapters/3/3.5.md",
+    "chapters/3/3.4.md",
+    "chapters/3/3.3.md",
+    "chapters/3/3.2.md",
+    "chapters/3/3.1.md",
+    "chapters/2/2.5.md",
+    "chapters/2/2.4.md",
+    "chapters/2/2.3.md",
+    "chapters/2/2.2.md",
+    "chapters/2/2.1.md",
+    "chapters/1/1.11.md",
+    "chapters/1/1.10.md",
+    "chapters/1/1.9.md",
+    "chapters/1/1.8.md",
+    "chapters/1/1.7.md",
+    "chapters/1/1.6.md",
+    "chapters/1/1.5.md",
+    "chapters/1/1.4.md",
+    "chapters/1/1.3.md",
+    "chapters/1/1.2.md",
     "chapters/1/1.1.md",
-    "chapters/1/README.md",
-    "chapters/0/0.2.md",
-    "lore.md",
-    "docs",
-    "New folder",
-    "docs/chapters/specials/quotes/misc/wedding.html",
-    "docs/chapters/specials/quotes/misc/theory_practice.html",
-    "docs/chapters/specials/quotes/misc/sakala.html",
-    "docs/chapters/specials/quotes/misc/gita_2.html",
-    "docs/chapters/specials/quotes/misc/krsna.html",
-    "docs/chapters/specials/quotes/misc/README.html",
-    "docs/chapters/specials/quotes/misc/obtain_woman.html",
-    "docs/chapters/specials/quotes/misc/mayurasarma.html",
-    "docs/-img/midjourney/canin.png",
-    "docs/lib/media/favicon.png",
-    "docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/-img/midjourney/yasomati.png",
-    "docs/-img/midjourney/war.png",
-    "docs/-img/midjourney/wanderer.png",
-    "docs/-img/midjourney/taxila_student_3.png",
-    "docs/-img/midjourney/thera.png",
-    "docs/-img/midjourney/ajatasatru_4.png",
-    "docs/-img/midjourney/taxila_student_2.png",
-    "TODO.md",
-    "outline.md",
-    "index.md",
-    "chapters/specials/quotes/arthashastra/README.md",
-    "chapters/specials/quotes/arthashastra/ravana_duryodhana.md",
-    "chapters/specials/quotes/arthashastra/quotable.md",
-    "chapters/specials/quotes/arthashastra/qualities.md",
-    "chapters/specials/quotes/arthashastra/protect_army.md",
-    "chapters/specials/quotes/arthashastra/prostitutes.md",
-    "chapters/specials/quotes/arthashastra/profit_loss.md",
-    "chapters/specials/quotes/arthashastra/porus.md",
-    "chapters/specials/quotes/arthashastra/personal_security_2.md",
-    "chapters/specials/quotes/arthashastra/personal_security.md",
-    "chapters/specials/quotes/arthashastra/passport.md",
-    "chapters/specials/quotes/arthashastra/omniscience.md",
-    "chapters/specials/quotes/arthashastra/negligence.md",
-    "chapters/specials/quotes/arthashastra/more yantra.md",
-    "chapters/specials/quotes/arthashastra/minister_employment.md",
-    "chapters/specials/quotes/arthashastra/marriage.md",
-    "chapters/specials/quotes/arthashastra/making_excuses.md",
-    "chapters/specials/quotes/arthashastra/law_4.md",
-    "chapters/specials/quotes/arthashastra/law_3.md"
+    "chapters/1/index.md",
+    "chapters/0/0.1.md",
+    "chapters/specials/quotes/full_page_vizhdam.md",
+    "chapters/specials/quotes/quotable.md"
   ]
 }

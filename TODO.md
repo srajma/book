@@ -4,7 +4,7 @@
 - [ ] standardization
 	- [x] **Write index and outline**
 	- [ ] Standardize everything in [lore](lore.md) including  r̥ ṁ, and make the changes throughout the book
-	- [ ] Standardize quotation formats and italics (in flashback chapters, [full_page_vizhdam](chapters/specials/quotes/arthashastra/full_page_vizhdam.md))
+	- [ ] Standardize quotation formats and italics (in flashback chapters, [full_page_vizhdam](chapters/specials/quotes/full_page_vizhdam.md))
 	- [ ] Em dash en dash
 	- [ ] Spell check
 - [ ] simple tasks
