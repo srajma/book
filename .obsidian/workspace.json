@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "17338213433d805d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/specials/quotes/greek/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f04a6dbb5ea619e0",
             "type": "leaf",
             "state": {
@@ -33,33 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aadd01322189a6ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef9ab57890986d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/specials/quotes/full_page_vizhdam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "463e5149d6767baa",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/specials/quotes/full_page_vizhdam.md"
+                "file": "chapters/specials/quotes/greek/index.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/specials/quotes/full_page_vizhdam.md",
+                "file": "chapters/specials/quotes/greek/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/specials/quotes/full_page_vizhdam.md",
+                "file": "chapters/specials/quotes/greek/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,53 +190,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef9ab57890986d7d",
+  "active": "17338213433d805d",
   "lastOpenFiles": [
-    "docs/docs/docs/TODO.html",
-    "docs/docs/docs/outline.html",
-    "docs/docs/docs/lore.html",
-    "docs/docs/docs/index.html",
-    "docs/docs/docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/docs/docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/docs/docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/docs/docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/docs/docs/-img/obsidian.png",
-    "docs/docs/docs/-img/midjourney/yasomati.png",
-    "docs/docs/docs/-img/midjourney/war.png",
-    "docs/docs/docs/-img/midjourney/wanderer.png",
-    "docs/docs/docs/-img/midjourney/thera.png",
-    "docs/docs/docs/-img/midjourney/taxila_student_3.png",
-    "docs/docs/docs/-img/midjourney/taxila_student_2.png",
-    "docs/docs/docs/-img/midjourney/taxila_student.jpeg",
-    "docs/docs/docs/-img/midjourney/seal.png",
-    "chapters/3/3.5.md",
-    "chapters/3/3.4.md",
-    "chapters/3/3.3.md",
-    "chapters/3/3.2.md",
-    "chapters/3/3.1.md",
-    "chapters/2/2.5.md",
-    "chapters/2/2.4.md",
-    "chapters/2/2.3.md",
-    "chapters/2/2.2.md",
-    "chapters/2/2.1.md",
-    "chapters/1/1.11.md",
-    "chapters/1/1.10.md",
-    "chapters/1/1.9.md",
-    "chapters/1/1.8.md",
-    "chapters/1/1.7.md",
-    "chapters/1/1.6.md",
-    "chapters/1/1.5.md",
-    "chapters/1/1.4.md",
-    "chapters/1/1.3.md",
-    "chapters/1/1.2.md",
-    "chapters/1/1.1.md",
-    "chapters/1/index.md",
-    "chapters/0/0.1.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "TODO.md",
+    "docs/-img/obsidian.png",
+    "docs/-img/midjourney/yasomati.png",
+    "docs/-img/midjourney/war.png",
+    "docs/-img/midjourney/wanderer.png",
+    "docs/-img/midjourney/thera.png",
+    "docs/-img/midjourney/taxila_student_3.png",
+    "docs/-img/midjourney/taxila_student_2.png",
+    "docs/-img/midjourney/taxila_student.jpeg",
+    "docs/-img/midjourney/seal.png",
+    "outline.md",
+    "lore.md",
+    "index.md",
+    "chapters/dasarajna.md",
+    "chapters/vasudeva/2.8_death.md",
+    "chapters/vasudeva/2.7_ayodhya_2.md",
+    "chapters/vasudeva/2.7_ayodhya_1.md",
+    "chapters/vasudeva/2.6_letter.md",
+    "chapters/vasudeva/2.5_wife.md",
+    "chapters/vasudeva/2.4_father.md",
+    "chapters/vasudeva/2.3_mother.md",
+    "chapters/vasudeva/2.2_licchavi.md",
+    "chapters/vasudeva/2.1_childhood.md",
+    "chapters/vasudeva/1.5_birth.md",
+    "chapters/vasudeva/1.4_coronation.md",
+    "chapters/vasudeva/1.3_coup.md",
+    "chapters/vasudeva/1.1_catapult.md",
+    "chapters/specials/rajamandala/with_guards.md",
+    "chapters/specials/rajamandala/PREFIX.md",
+    "chapters/specials/quotes/quotable.md",
     "chapters/specials/quotes/full_page_vizhdam.md",
-    "chapters/specials/quotes/quotable.md"
+    "chapters/specials/quotes/misc/wedding.md",
+    "chapters/specials/quotes/misc/theory_practice.md",
+    "chapters/specials/quotes/misc/sakala.md"
   ]
 }

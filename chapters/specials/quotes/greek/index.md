@@ -44,6 +44,11 @@
 
 ## cities
 ![cities](chapters/specials/quotes/greek/cities.md)
-
+## irrigation
+![irrigation](irrigation.md)
+## famine
+![famine](famine.md)
+## geneva_convention
+![geneva_convention](geneva_convention.md)
 ## never_invaded
 ![never_invaded](chapters/specials/quotes/greek/never_invaded.md)

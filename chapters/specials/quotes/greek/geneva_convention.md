@@ -1,0 +1,3 @@
+> There are usages observed by the Indians which contribute to prevent the occurrence of famines among them: whereas among other nations it is usual, in the contests of war, to ravage the soil, and thus to reduce it to an uncultivated waste; among the Indians on the contrary, by whom husbandmen are regarded as a class that is sacred and inviolable, the tillers of the soil, even when battle is raging in their neighbourhood, are undisturbed by any sense of danger, for the combatants on either side in waging the conflict make carnage of each other, but allow those engaged in husbandry to remain unmolested. Besides, they neither ravage the enemy’s land with fire, nor cut down its trees.
+> 
+> —Megasthenes, according to Diodorus, 2.35—2.42.
