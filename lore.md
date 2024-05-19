@@ -79,6 +79,8 @@ Koorush, Cyrus II | Darayavaush, Darius I | Kshayaarshaa, Xšayār̥šā, Khshay
 Kanāḍa | Buddha, Wise One | others mentioned in [Artha schools](#Artha%20schools)
 ### free names to use
 Devadyumna
+Devagarbha
+Añjanādevi/Añjanā
 
 ## Places and peoples
 

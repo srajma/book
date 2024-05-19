@@ -23,24 +23,12 @@
             }
           },
           {
-            "id": "17338213433d805d",
+            "id": "eafc2cbbc23c4b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/specials/quotes/greek/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f04a6dbb5ea619e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lore.md",
+                "file": "chapters/rough/4/martyr.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/specials/quotes/greek/index.md"
+                "file": "chapters/rough/4/martyr.md"
               }
             }
           },
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/specials/quotes/greek/index.md",
+                "file": "chapters/rough/4/martyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/specials/quotes/greek/index.md",
+                "file": "chapters/rough/4/martyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,30 +178,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "17338213433d805d",
+  "active": "eafc2cbbc23c4b86",
   "lastOpenFiles": [
-    "docs/lib/metadata.json",
-    "docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/lib/media",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
     "TODO.md",
-    "docs/-img/obsidian.png",
-    "docs/-img/midjourney/yasomati.png",
-    "docs/-img/midjourney/war.png",
-    "docs/-img/midjourney/wanderer.png",
-    "docs/-img/midjourney/thera.png",
-    "docs/-img/midjourney/taxila_student_3.png",
-    "docs/-img/midjourney/taxila_student_2.png",
-    "docs/-img/midjourney/taxila_student.jpeg",
-    "docs/-img/midjourney/seal.png",
     "outline.md",
     "lore.md",
     "index.md",
@@ -237,6 +204,27 @@
     "chapters/specials/quotes/full_page_vizhdam.md",
     "chapters/specials/quotes/misc/wedding.md",
     "chapters/specials/quotes/misc/theory_practice.md",
-    "chapters/specials/quotes/misc/sakala.md"
+    "chapters/specials/quotes/misc/sakala.md",
+    "chapters/specials/quotes/misc/obtain_woman.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/-img/obsidian.png",
+    "docs/-img/midjourney/yasomati.png",
+    "docs/-img/midjourney/war.png",
+    "docs/-img/midjourney/wanderer.png",
+    "docs/-img/midjourney/thera.png",
+    "docs/-img/midjourney/taxila_student_3.png",
+    "docs/-img/midjourney/taxila_student_2.png",
+    "docs/-img/midjourney/taxila_student.jpeg",
+    "docs/-img/midjourney/seal.png"
   ]
 }
