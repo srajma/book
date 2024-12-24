@@ -1,5 +1,5 @@
-Read here: https://srajma.github.io/book/
 # content
+Read here: [https://srajma.github.io/book/](https://srajma.github.io/book/)
 - [0.1 INTRODUCTION](chapters/0/0.1.md)
 - [0.2 PROLOGUE: Pratiṣṭhāna Kāṇḍa](chapters/0/0.2.md)
 - 1 Takṣaśila Kāṇḍa (*The Taxila Chapter*). In a world where the Vedic light appears to be dying, crushed from both sides by the Magadhas and the Persians, a young Cāṇakya resolves to make some changes.

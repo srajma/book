@@ -21,21 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "eafc2cbbc23c4b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/rough/4/martyr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "463e5149d6767baa",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/rough/4/martyr.md"
+                "file": "outline.md"
               }
             }
           },
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/rough/4/martyr.md",
+                "file": "outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/rough/4/martyr.md",
+                "file": "outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +165,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "eafc2cbbc23c4b86",
+  "active": "493c821d73e69758",
   "lastOpenFiles": [
+    "chapters/rough/4/martyr.md",
     "TODO.md",
     "outline.md",
     "lore.md",
@@ -205,7 +193,6 @@
     "chapters/specials/quotes/misc/wedding.md",
     "chapters/specials/quotes/misc/theory_practice.md",
     "chapters/specials/quotes/misc/sakala.md",
-    "chapters/specials/quotes/misc/obtain_woman.md",
     "docs/lib/metadata.json",
     "docs/lib/media/874d8b8e340f75575caa.svg",
     "docs/lib/media",
